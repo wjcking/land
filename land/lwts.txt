@@ -38,11 +38,11 @@ lchs
 */
 ilks.lnd_ena
 atms.blskn
-  pskf:utl
+  pskf.vls
   ptk^a
   psh_aeu
   //sunlask
-klst.plck
+klst.lck
 
 jlt_a
   kl:nks
