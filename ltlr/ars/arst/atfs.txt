@@ -1,0 +1,13 @@
+﻿rsta.rts.rn
+ent.fs_uv
+
+//hlk_al.blt
+dkt
+  fsu^z:skr
+  fsh_n:atr:sh //dfm_ire
+bts
+
+astk
+  btk_ao
+  //hvn.fzk.fld
+ads

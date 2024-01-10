@@ -1,0 +1,40 @@
+﻿//email
+wjcking@hotmail.com, intellyer20010101
+  POP3: outlook.office365.com Port: 995 Encryption method: TLS
+  IMAP name: outlook.office365.com Port: 993 Encryption method: TLS
+  SMTP name: smtp.office365.com Port: 587 Encryption method: STARTTLS
+
+intellyer@outlook.com, wjcking1984328
+intellyer@protonmail.com, intellyer20010101
+intellyer@eclipso.email intellyer20010101
+  POP3-Server: 	mail.eclipso.de (Port: 995, Verbindungssicherheit: SSL)
+  SMTP-Server: 	mail.eclipso.de (Port: 587, Verbindungssicherheit: SSL)
+
+/*
+*intel
+*https://app.infinityfree.net/accounts/epiz_32191325/login
+*https://filemanager.ai/new/#/c/185.27.134.11/epiz_32191325/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiYWhCSHV2SnA4YiIsImkiOiJcLyJ9fQ==
+*/
+InfinityFree Requre:www
+  intellyer@outlook.com
+  enter20010101
+ Panel Ftp Hostname 	ftpupload.net
+ intel.great-site.net
+   Username	epiz_32191325
+   Password:ahBHuvJp8b
+   MySql:  sql305.epizy.com Port:3306
+   WebsiteIP:185.27.134.113
+ brt.rf.gd
+   Username	epiz_32871441
+   Password: lH2KI1fBY3f96h
+  MySql: sql202.epizy.com Port:3306
+  WebsiteIP:185.27.134.179
+
+//hzh.dsk
+https://infini-cloud.net/en/
+	intellyer
+	20010101
+	ReferralCode:SC9YQ
+//https://gitee.com/intellyer
+//http://cpanel.byethost22.com/
+//http://www.bertis.byethost22.com

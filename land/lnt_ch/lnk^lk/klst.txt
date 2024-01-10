@@ -1,0 +1,31 @@
+﻿klst.klt.lsk 
+
+kl^al 
+  brt.lck
+kns^sai
+  
+fks_c.aks.jts.atr_ch
+  enk //not.lck
+  las
+  kch
+
+  luk.trx
+ptk.krf_m
+ 
+/*
+*offset:compatible
+*  difference.contrast
+*  lost
+*keypoint
+*/
+idx.klr
+ltlr.tfs:arst:
+pst.krs^f.knt_e.rtf^d//const_expr
+
+pd.atz^w
+	kst^al 
+	dtf
+	kbt
+	lst_ao
+ftn.lk.lnk.klt
+

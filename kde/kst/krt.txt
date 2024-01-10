@@ -1,0 +1,17 @@
+﻿krt_e
+	r.vsd
+	f.trx
+	b
+krl_e
+
+krt^ar
+  kmt
+  kt_r.isk:vst
+    
+  kaz_o.ats.mst
+  thk:msk
+
+  ktr:kdr
+
+  kld_ain 
+krd

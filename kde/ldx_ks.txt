@@ -1,0 +1,24 @@
+﻿k:kst
+kd.ks
+kb_nr
+//kl.skr
+k
+  kl_r_a
+  skr:rlc.sa_i
+r
+
+//land
+lts_w
+
+//k^b_nr
+k:h.l.m
+  hzk.asdr:k_h_l  
+  mks.msk_en.lts.mst_ch  
+m.alk.msk
+
+//ltl.ltls.skr.mkr
+ltl_r.kd.nk.lan
+  annl:lct_n
+  rl
+  mch.r:lk_wo
+mkr

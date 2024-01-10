@@ -1,0 +1,25 @@
+﻿/*
+*面 平
+*面 立 
+*面 方 力 (体)
+*/
+fln.c
+  mit:snt //sld^a
+  mik.ary
+flk
+
+
+f.ks
+  tim
+  mik
+l:tsh^kwo
+
+//人似内
+//	立面,方面 (体) 凯斯特 卡丝他 区分:平行面维 
+//多维面
+ist.k.d:ltx:t.d
+mch.st.mdk
+kna.mi
+  
+mid
+nde //安的 恩得

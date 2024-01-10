@@ -1,0 +1,69 @@
+﻿/*
+*hnm.ab_ozh
+*  do line arclent kps_amu
+*  msk psh
+*rl.mdn_ao.adv^s.kamsk
+*/
+sklt:lvch_n:pst.kant_ao:rck_awy
+rks.psk_th_c:kest.nsk
+
+vls.pskf
+ //dnbl dmp
+vls:lag.hnd_fgr^fnt:lng.fnt_fgr
+
+vad.nwk
+  knd:vst.spn
+wad.nak
+
+lng.lde:lda
+lag.hnd.knk_g^t
+  knd:vst:spn
+  knd.vts
+
+  //dnb:saf.rut^t.nt_ao //kch_w.dab^s  
+  hnd.fgr.lnt.rck //drk^t:米
+  zrn.fgr.blg.lnt.rck //fnt drk^t:上下
+
+  mdr:bad_ln_
+  mfs:bdy.nbr
+
+  //dub.ln^nr_a
+  adv.lda_m.dna^t:hln^d
+  
+  //bag_o.dag_no.hnd_ol
+  //dnb.aut_e
+  ady
+  tnd_ln
+  hnd_ln
+  tg^kn
+lng.zrn:ajr_n.ajt_n //fnt
+
+sls_hlr
+  kl
+  
+  slc:pskf.rl.kent.kch_an
+  m.blt_fwu.jsk
+gap_kzh
+
+mfs
+  hd:bd:tap_an //ets_ou
+  tx.ch //dsh
+
+  lsa //lnr ear
+
+  ksk_al^z//lvsh
+    kl:db.aut_o
+    sk.r:ln^tx
+  kst
+
+  bk:wn_u
+  nk_wo
+
+  md^l //kst^a
+    shp //tag
+  mke //spk
+
+  nd_ech
+mds
+
+ablt.rbk.rck.fnc.arn_or

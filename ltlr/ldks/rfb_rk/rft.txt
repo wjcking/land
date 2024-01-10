@@ -1,0 +1,77 @@
+﻿/*
+*CircleRectick Argus
+*absock-cybert/eunix-euclid.html
+*/
+Ryber:Karract
+  Bigger:ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  Smaller:abcdefghijklmnopqrstuvwxyz
+
+  Sikeri:S,C//Jxs:Kolor,Cef H
+  Silins:NM
+
+  Beosike:LI
+  Kesite:NZ
+
+  Sames:ckopsvwxz
+  Samer:unmj
+  Samiz:li
+  Differs:art e b hllf g d y q
+Ryske
+
+BeosikeKesset(LVS)
+   Lisode:Solid
+   Vesaid
+   Sivilet:Karract.Woci:Accenture,Essential-Culture,Kountural
+Refine
+
+Raferal:Intelick.Rind.Koz
+  S.L=CXC+  //Meget.Kater enunix.svg  
+  O.V.ltx=aeiou //呕  
+    O:SolofulGotten //O^micron
+  O.L==C.L
+  O.S=AES 
+  O.V$=Un //Son Soon
+    Q=dbpq
+    C-V^-CZS //Vesaid Refabric:r f l
+    C.V^= K:SelfulKote//Omic^ron
+    G=AENU //EasyPiorit Sivilet
+      M
+      R
+      H
+  GKT=CK Chaos KC  
+  GTK=CT KOZ TC
+  D.L = CI
+  D.Vessat = I
+  I.Small:i:vy L
+  I:J.L:cg:J.L
+    F
+    H
+    E //Vesaid
+    T //Gareful
+  L
+  R.L=ICU  //icun
+  U.S=W^VY_M //vessat:un
+  Y.V=NZ
+  Z.V:U.S
+  KTX:VL:KXT:S:TKX
+Formrike:Antifusial
+
+//Feral.Itialian.Ferrero
+Rydiffer.Beosike.SmallBigger.DifferMost
+  V:u:U
+  S:m:M
+  V:j:J
+  V:i:I
+  S:b:B
+  V:d:D
+  V:h:H
+  L:f:F
+  VS:l:L
+  V:q:Q
+  L:a:A
+  LV:g:G
+  S:r:R
+  LV:e:E
+  L:t:T
+  L:y:Y
+Formnike:Beosekal:Sequential

@@ -1,0 +1,16 @@
+﻿kst_al.kl
+
+kaz.krs.hsk3
+	skr.atk //cnr.mrs kl.ank.trs.brt
+	rkb
+	rbk
+ltl.krl
+
+kaz:mwz
+kaz.trk.khk //msk
+kast.tak.lnt
+
+//kez.kmtx
+//kht
+//kzt_h_l:ltl_r
+//tzk_lh

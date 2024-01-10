@@ -1,0 +1,24 @@
+﻿/*
+*ltlr.sdads_ut.brs status
+*pskf.bl.ut.ft_w
+*/
+brts_e^d:abrs.brts.args
+  lnk^th
+  kln.pls_dr.ltlr:asak:lsa^t
+  ~kr^tk_ea^l //Add Paskeful.PiorityFirstly.Index
+
+    lck^g.kamsk_an.lnchmt_rer_ar
+    rdf:chf_a:mfs //wabst:tmb_ln.hlgt
+
+    mlk_er
+  klt
+
+  bts
+		lst.atrzk
+  bds
+
+  ktn.rsk^t //tk tsk tzk 
+    dlt^b
+    rls_e
+  lck
+ltlr

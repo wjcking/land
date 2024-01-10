@@ -1,0 +1,16 @@
+﻿hzh.klc
+//jk.ts.rl
+hxc.lnt.vsh.jxs //asm jump loop
+	dsh^dnp.hks^c //jxs.jmp jws^a
+    int.k^al.kam//call
+    kst^alc //stack.lst
+    k.psh //call.push exe lck.x
+      rpt^u.rts // interrupt rtn
+      hks^x//0x decimal
+      dth //thread
+    bsh^akx//pop
+	tsh^dth.ktn //lnt.rpt^a thread steal stole
+
+  kam.exs //rbd^u
+  kct.dwf.main.ssk
+dkbt.kmsk

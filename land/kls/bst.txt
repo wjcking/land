@@ -1,0 +1,36 @@
+﻿/*
+*英特立尔 凯比_礼儿_努尔
+*贝欧斯克:基础和主体
+*塞得 萨得
+* 艾德莱斯//附属物
+* 凯乐:形体塞克.铯柯:形态认知 Morphology
+*   伊殿
+*兰德: 地界
+*能量
+*/
+kls_wo.ltlr.knr_wo.kad
+  //b.sak.d
+  //sad.sk
+  dar
+    adls^d:vrsk
+    dak.kl_aye.rck.slk_wo
+  dsn^a
+	dnk.abs
+
+  hlk.ltx//htk.wmz.kht.blsgn
+dnk.l
+      
+//trace.html
+//Rastera\intellyer\rikes.html
+//Rastera\intellyer\rystera.html
+kld:bst
+	atz.zsn //tas^n
+  wsk_c
+  lwsk.wks
+  
+  //dns krx
+  kls_wo:ats_m.atrzk
+    atk_ao_m:hzt:fld_rxs
+    ats_m.flr_y
+  msk_en
+klt

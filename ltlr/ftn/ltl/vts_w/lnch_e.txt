@@ -1,0 +1,25 @@
+﻿kbt.lnch_l.vts_y //ftn
+vst_v
+	e_l //1
+	e_i //1
+	e_1 //E
+
+	e_v^r
+	r_en.v
+	v_l.y
+	v^1.y //E l n
+	y^l
+vsd_v
+
+atr.rsk^v
+	//esh
+	ech.lnch.s
+	lv
+	lvch
+	y^l.r:vwr
+	//ant mts 
+	//txs v
+	//txk y q
+	//flp.rte.msk
+	lvy.lvs.ltr.rtl.rte^ate:x
+ates.vts

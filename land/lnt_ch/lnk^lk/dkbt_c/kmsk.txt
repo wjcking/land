@@ -1,0 +1,25 @@
+﻿rkb.ltlr.dkbt
+  ln.ktk_ant
+    br_ln.lck
+  lyr.lsa //lsn_enr
+
+  //NoseDragout
+  nud_o
+  bk_i.nk_we.and_no 
+    smtk.mdr
+    fld.nk //slaw-spt_i
+  mas_aou.sbk_p
+
+  hnd.rsk
+  bda^o.lnt.cht
+bts_er_d.lsk^c //Transplant
+
+mfs_n.chf_wa_ou://truffle
+fag
+  gus:tub
+fug
+
+//HandleStick
+
+
+
