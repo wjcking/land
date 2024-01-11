@@ -6,14 +6,15 @@ a.ast.k
 
 kd:kb_nr
   t
-	//wt_h
-  //ml^s
+	//tuz:wt_h
+  //tnz:ml^s
   tzk:kzt
   kt
 
-	ark.ist
+	ark.ilk.ist
 
   kaz
-	//afk
-  wms:mwz_m^j
+	fenk
+  knh:wms:mwz_m^j
 trs.bls
+
