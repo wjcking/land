@@ -5,16 +5,17 @@ i.ist
 a.ast.k
 
 kd:kb_nr
-  t
+  t:k
 	//tuz:wt_h
   //tnz:ml^s
   tzk:kzt
-  kt
+  kit
 
 	ark.ilk.ist
 
   kaz
 	fenk
-  knh:wms:mwz_m^j
+	//wms:mwz_m^j
+  knh
 trs.bls
 

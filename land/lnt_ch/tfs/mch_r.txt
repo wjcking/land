@@ -9,7 +9,7 @@ trf
   //Beyond.Language
   //Earth.Solid.Lang.Require.EntireHuman.Acknowledge  
   h^n.arst.hxs.ftn  
-    Treant//树精
+    Treant
     LykenWaof
   r //Ground,Cities,UnderWater
 
