@@ -18,7 +18,7 @@ m.alk.msk
 
 //ltl.ltls.skr.mkr
 ltl_r.kd.nk.lan
-  annl:lct_n
+  annl:lct
   hrs
 
   rl:lk_wo

@@ -1,9 +1,13 @@
 ﻿lank
 
 i.ist
-	ark.alk //afk
+	ark.alk 
 a.ast.k
 
+//rl.ich.t.k istk.d
+//rl.tri^skr.vst
+//lr.ank.krs
+//rkb.ksk.flt
 kd:kb_nr
   t:k
 	//tuz:wt_h
@@ -14,7 +18,7 @@ kd:kb_nr
 	ark.ilk.ist
 
   kaz
-	fenk
+	kfn:fenk:afk
 	//wms:mwz_m^j
   knh
 trs.bls
