@@ -7,6 +7,16 @@ t:s.i
 	kt
 ist
 
+//rkb.ksk.fst
+//rl:tri.skr
+//vst.bst
+kst.tsk.bst
+i.t
+	r:rr:n
+	s:i
+	i:a
+r
+
 trk
   krt
 	ktr

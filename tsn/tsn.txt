@@ -1,6 +1,5 @@
 ﻿ksn.kst
-ist.iank
-isk.tsn
+ist.iank.tsn
 
 fsn.ksn:tfs
 rsn.fst

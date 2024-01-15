@@ -4,7 +4,7 @@ kaz.krs.hsk3
 	skr.atk //cnr.mrs kl.ank.trs.brt
 	rkb
 	rbk
-ltl.krl
+krl.ltl
 
 kaz:mwz
 kaz.trk.khk //msk

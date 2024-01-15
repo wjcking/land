@@ -1,7 +1,7 @@
 ﻿iank.l
 lank.c
   -l
-		^itr-a 
+		^itr-an 
 		~o //k-cs
   -c
 ist.lst-ibt

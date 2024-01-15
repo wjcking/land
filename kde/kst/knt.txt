@@ -4,21 +4,28 @@ trk.ktr^d
 	h.atsk //arst kmt.h.pst.knt_aln3
 	h.irk.ilk
 	h.iank.tsn
-
+	h:n.z.l
+	
+	knk:ktk:h
 	kzk
-	khk
 		h.kiz
 		h.t.kiz//kaz
-	kmt^d //ktk:h
-krt^d
+	khk
+krt^d 
 
-kmt.tsk.krd
+/*
+*https://www.mathsisfun.com/geometry/
+*hdl.tuk
+*knt.kmt.kmtx
+*/
+knt.krd
 ktr:kdr
-	kzk:khk
-	kt^r
-	kaz
+	tsk
+	
+	kit
+	kiz//kaz
+	knk
 kld.ain
-
 
 krt_e
 	r.vst
