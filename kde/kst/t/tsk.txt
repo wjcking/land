@@ -1,14 +1,12 @@
-﻿
-
-tsk:kst
+﻿tsk:isk
 t:s.i
 	t
 	k
 
-
 	tk
 	kt
-isk
+ist
+
 trk
   krt
 	ktr

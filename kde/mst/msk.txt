@@ -1,23 +1,21 @@
 kmt.msk
-kst.lst.kaz
-knt//kad_e:kank_d
+kmt^d.jts.msk.kst^a //ktk:h
+//
+kzk
+	wms
+	mwz_m^j
+tzk//t
 
-trk.ktr^d
-	h.atsk //arst kmt.h.pst.knt_aln3
-	h.irk.ilk
-	h.iank.tsn
+knh
+	kht.mw^s
+	thk.mhw_k
+	mhmt_e
+	mhmd_w
+khk
 
-	kzk//tzt wms:mwz_m^j
-	khk//mw^s.kht mhmd_w mhmt_e
-		h.kaz
-		h.t.kaz
-	//thk.mhw_k
-	kmt^d.jts.msk.kst^a //ktk:h
-krt^d
-
-msk:kmt//tzt
+msk:kmt
 	mslk 
-	km^tx.tls:ksl ktl
+	kmtx.tls:ksl:ktl
 	mlsk
 mks:mds_l:mts
 
