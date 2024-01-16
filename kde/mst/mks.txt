@@ -9,12 +9,10 @@ kls.msk:mwz.mhmt
 kls.hlk
 //wt_h	ml^s
 wts:v:mls:h
-kts
-	kzt
-ktz.ltz.hlx^n
+kts.ltz.hlx^n
 
 //arst.atsk.msk
-km^tx
+kmtx
 mds.mlk.mgt
 brts.rft.vbs:7x 1t l z y
 krls:r.f.l

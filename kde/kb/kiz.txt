@@ -1,14 +1,12 @@
-﻿kst_al.kl
-
-kaz.krs.hsk3
+﻿kiz.krs.hsk3
 	skr.atk //cnr.mrs kl.ank.trs.brt
 	rkb
 	rbk
 krl.ltl
 
-kaz:mwz
-kaz.trk.khk //msk
-kast.tak.lnt
+kiz:knk
+kiz.knt.khk //msk
+//kast.tak.lnt
 
 //kez.kmtx
 //kht

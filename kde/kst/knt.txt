@@ -18,7 +18,7 @@ krt^d
 *hdl.tuk
 *knt.kmt.kmtx
 */
-knt.krd
+ktn:knt.krd
 ktr:kdr
 	tsk
 	
@@ -28,7 +28,7 @@ ktr:kdr
 kld.ain
 
 krt_e
-	r.vst
-	f.trx
-	b
+	r.ist.ln
+	f.rsk//trx
+	b.lck//ict.ln
 krl_e

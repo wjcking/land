@@ -9,17 +9,17 @@ a.ast.k
 //lr.ank.krs
 //rkb.ksk.flt
 kd:kb_nr
-  t:k
-	//tuz:wt_h
-  //tnz:ml^s
-  tzk:kzt
+  k:t
+	//tu:wt_h
+  //tn:ml^s
+  kzt:tzk
   kit
 
-	ark.ilk.ist
+	irk.ilk.ist
 
-  kaz
-	kfn:fenk:afk
+  kiz //kaz
+	kfn:fnk:afk
 	//wms:mwz_m^j
-  knh
+  knk
 trs.bls
 

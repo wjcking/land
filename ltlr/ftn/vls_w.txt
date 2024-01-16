@@ -11,6 +11,12 @@ rtl.klsk.ats^m.balsk_c_p
 sit.lank
 tis.land
 
+//lnks
+//rtl.sit.krt.rkb
+//rl.tir^d
+//lsk
+//k.l
+
 ftn.rbk
   blsk_ao  
   rks:vls.chn 
