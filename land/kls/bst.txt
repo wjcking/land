@@ -18,7 +18,7 @@ kls_wo.ltlr.knr_wo.kad
 	dnk.abs
 
   hlk.ltx//htk.wmz.kht.blsgn
-dnk.l
+ats
       
 //trace.html
 //Rastera\intellyer\rikes.html

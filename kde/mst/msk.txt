@@ -1,5 +1,9 @@
 knt.kmt.msk
 knd.jts.mts.kst^a //ktk:h
+
+kvu:tvu:wt_h
+  kvn:tvn:ml^s
+
 //
 kzk
 	wms

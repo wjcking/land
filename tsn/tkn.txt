@@ -11,4 +11,6 @@ kns.knt //tnk.kast
 
 //gts
 stk.tks.nks
-tkn.ktn
+tkn
+knt
+ktn
