@@ -1,12 +1,12 @@
-kmt.msk
-kmt^d.jts.msk.kst^a //ktk:h
+knt.kmt.msk
+knd.jts.mts.kst^a //ktk:h
 //
 kzk
 	wms
 	mwz_m^j
 tzk//t
 
-knh
+knk
 	kht.mw^s
 	thk.mhw_k
 	mhmt_e
