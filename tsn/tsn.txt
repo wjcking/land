@@ -1,12 +1,12 @@
-﻿ksn.kst
+﻿ksn.lst
 ist.iank.tsn
 
 fsn.ksn:tfs
 rsn.fst
 dsn
 
-rdn
 rns
+rdn
 
 dns
 	dms.knt:tfs:fst	//ast.k

@@ -1,4 +1,6 @@
-﻿bls
+﻿krs.trs^l
+
+bls
 	etx
 	txh
 
@@ -14,5 +16,5 @@ brk
 
 blk
 
-irk.asd
-rst.land
+irk.isd.a
+rst.ld.an

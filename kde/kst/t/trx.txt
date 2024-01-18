@@ -15,5 +15,5 @@ r.ist.tx.k
 krx
 	axs
 	fls
-	ltxs
+	ltx
 txh.ch

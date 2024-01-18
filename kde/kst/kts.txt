@@ -1,17 +1,23 @@
-﻿kzt:tzk
+﻿kde
+kts.kdz:stk.tks
 
-kts^z.echs^sh.lxa.itr
-	//azt.k
-	//asnk
+//kzt.c.ltx
+//tzk^e.s.its.ch
+//tsk^e.z.ltx.ch
+//tks^e.z.its.th
+//tks^i.zh.gts
 
-	kzt^c.trs^l.rst
-	kct.z
+ist.k.tkn
+//dns:ats.k.ktn
+//dns.kzn:pst
+its.k.knt.dth 
+ltx.its
+	u.n
+	n.u
+ktv:kvt^n
 
-	kzr
-	krkz
-
-	kzl.lsk	//lst.ksl
-  
-	kzlz.isls
-	kzl.sw^h
-ktz.c
+ksn
+	kit:kvt
+	kst^a:kiz //kast
+	krs.kfs //rns blk fnk
+kns.kts.tks

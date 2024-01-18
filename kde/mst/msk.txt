@@ -1,14 +1,14 @@
 knt.kmt.msk
 knd.jts.mts.kst^a //ktk:h
 
-kvu:tvu:wt_h
-  kvn:tvn:ml^s
+u:wt_h
+n:ml^s
 
 //
-kzk
+ksk
 	wms
 	mwz_m^j
-tzk//t
+tzk
 
 knk
 	kht.mw^s
