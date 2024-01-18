@@ -1,8 +1,10 @@
 knt.kmt.msk
-knd.jts.mts.kst^a //ktk:h
+//ktk:h.jts.mts.kst^a 
 
-u:wt_h
-n:ml^s
+k
+	u:wt_h
+	n:ml^s
+v
 
 //
 ksk
@@ -18,9 +20,9 @@ knk
 khk
 
 msk:kmt
-	mslk 
+	mls.k
 	kmtx.tls:ksl:ktl
-	mlsk
+	msl.t
 mks:mds_l:mts
 
 

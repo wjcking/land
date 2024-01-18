@@ -1,11 +1,11 @@
-﻿kiz.krs//hsk3
-	skr.atk //cnr.mrs kl.ank.trs.brt
+﻿kiz.krs//hsk3.mth
+	skr.itk //cnr.mrs kl.ank.trs.brt
 	rks//rkb
 	rsk//rbk
 kri.ltl
 
 kiz:knk
-kiz.knt.khk //msk
+kiz.knt.ksk //msk
 
 //kez.kmtx
 //kast.tak.lnt

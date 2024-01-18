@@ -2,10 +2,6 @@
 //atr:chf^s.fug  jsk fks 
 //ibt.tx
 //tx.q.k^m
-trx
-  krt
-i.r
-
 trx.krt
 	krt^e.i
 	krt^a.r
@@ -16,4 +12,4 @@ krx
 	axs
 	fls
 	ltx
-txh.ch
+txh

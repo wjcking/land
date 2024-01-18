@@ -27,30 +27,30 @@ vls.ltx
 比利:因特利尔
 用途:英特里克
 
-klt.gts
-lts^v 
+klt^s
+vst.w
 /******/
-斯克莱特:汇聚.迭代
+克莱特:斯:汇聚.迭代
   *因特利尔  艾夫斯克 艾昂尼克 莱昂尼克 
   中间变量 //Rastera\access-term\alfled.html
   索引节点
   全部:汇聚.关键
-斯纹莱特 
+纹斯特 
 
 kns.knt
 knt^i:mth
 
+knt_e
 knt^an
 knt^ao_ln
-knt_e
 /******/
 数量:重复
   个数
   次数 //动词
 两术:反应顺序:对接序列,付特
 
-ksh.s
-kzn.s
+ksh
+kzn
 /******/
 顺序:冲夫:夫次.付克.伏特
   单步.列出

@@ -1,17 +1,17 @@
 ﻿knt.trk//kad_e:kank_d
 
 trk.ktr^d
-	h:n.s.l
-	h.tsk.i //atsk.arst kmt.h.pst.knt_aln3
 	h.irk.ilk
 	h.iank.tsn
+	h.tsk.i
+	n:h.s.l //atsk.arst kmt.h.pst.knt_aln3
 	
-	knk:ktk:h
 	ksk
-		h.kiz
+	knk:h:ktk
+		h:kiz
 		h:k:t:kiz//kaz
 	khk
-krt^d 
+krt^d
 
 /*
 *https://www.mathsisfun.com/geometry/
@@ -21,9 +21,8 @@ krt^d
 ktn:knt.krd
 ktr:kdr
 	tsk
-	
-	kit
-	kiz//kaz
+		kit
+		kiz//kaz
 	knk:kts
 kld.ain
 
