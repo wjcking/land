@@ -2,10 +2,8 @@
 *空间:平行 立 体
 *莱昂尼克
 */
-ksn
-
 tsn
-mst
+tsm
   fsn
     fn:fx
     ft
@@ -17,4 +15,4 @@ mst
 	dsn.mds
 	//mlk^wo
   //mtk^d:ch mst.msk
-msd
+dms

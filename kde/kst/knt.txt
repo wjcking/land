@@ -23,11 +23,12 @@ ktr:kdr
 	tsk
 		kit
 		kiz//kaz
-	knk:kts
-kld.ain
+	knt.knk:kts
+krt//kld.ain.trk:rns
 
-krt_e
-	r.ist.ln
-	f.rsk//trx
-	b.lck//ict.ln
-krl_e
+krt
+	krt^a.r
+	krt^e.i
+	//krt^ar.ibt.rt:kdr
+r.ist.tx.k
+

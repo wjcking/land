@@ -1,20 +1,14 @@
 ﻿krs.trs^l
 
-bls
+brs:l
 	etx
 	txh
 
-	xzn
-	rcs
-blk:kct
+	x //zn
+kct:rcs
 
-vst
-vsd.a.l
-
-kb_nr
-brk
-
-blk
-
-irk.isd.a
+vst.dls
 rst.ld.an
+kb_nr
+isd.irk
+

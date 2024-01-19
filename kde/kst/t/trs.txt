@@ -1,5 +1,8 @@
 ﻿rts
-rst	//txc
+rst	
 trx
 rst.i.l
-tls	//stk
+
+tls:tis.ink.lk.in //an stk.etx.txh
+lst:ist.r//txc
+//tsl.astk

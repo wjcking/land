@@ -17,6 +17,7 @@ i.t
 	i:a
 r
 
+//itr.tsn.rns.stk
 trk
   krt
 	ktr

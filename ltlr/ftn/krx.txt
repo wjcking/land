@@ -1,0 +1,15 @@
+﻿trs.krt
+
+krx.krk
+krl_e
+	r.ist.ln
+	b.lck//ict.ln
+	f.rsk//trx
+krt_e
+
+//r:rl.air
+krx
+	axs
+	fls
+	ltx
+txh

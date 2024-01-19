@@ -20,8 +20,11 @@ knk
 khk
 
 msk:kmt
+	kls
+		ksl:ktl
+		klt_e 
+		kmtx
 	mls.k
-	kmtx.tls:ksl:ktl
 	msl.t
 mks:mds_l:mts
 
