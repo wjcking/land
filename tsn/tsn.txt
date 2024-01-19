@@ -3,7 +3,7 @@ ist.iank.tsn
 trx:trs.tls//bls^txc
 trk //brk:kdz:kfs
 
-fsn.ksn:tfs
+fsn.ksn
 rsn.fst
 dsn
 
@@ -11,7 +11,7 @@ rns
 rdn
 
 dns
-	dms.knt:tfs:fst	//ast.k
-	dms:tfs.flt.fst	//mds
+	dms.pst.knt.kzn //ast.k rtl.ltl flt
+	mds.fst
 dws.rst.a
 	

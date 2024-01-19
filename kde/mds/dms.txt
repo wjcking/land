@@ -4,7 +4,7 @@
 */
 tsn
 tsm
-  fsn
+  fsn:ltl.tsh^x
     fn:fx
     ft
     fc^k
