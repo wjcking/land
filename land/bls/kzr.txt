@@ -1,11 +1,12 @@
 ﻿kde.kzt:tzk
 
-kts^z.echs^sh.lxa.itr
+kts^z
 	//azt.k
 	//asnk
-
-	kzt^c.trs^l.rst
-	kct.z
+	//echs^sh.lxa.itr
+	
+	kzt^s^c.trs //l.rst
+	kct
 
 	kzr
 	krkz

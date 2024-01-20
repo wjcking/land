@@ -1,5 +1,5 @@
 ﻿atbs.l.ixb_n:jxs
-sld.fbk_r
+lsd.fbk_r
 
 smlnk:faibrik
 visaid_frbank

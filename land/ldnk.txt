@@ -8,7 +8,7 @@ klsk:kdks
 rks:ars
 	ats.m:lts_w
 	gts
-	kkd.an
+	kkd.an:pst.knt
 	gsk.ltx
 ags^r
 
@@ -20,7 +20,7 @@ ags^r
 */
 atrzk.artzk
 sls_ae_sh
-  kd_ai
+  kd_i
   sd_a
 
   ltls^r

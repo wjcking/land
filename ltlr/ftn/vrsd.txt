@@ -14,8 +14,8 @@ gls_c
 	//laos.burma.cambodia.miadian
 	//thailand
     
-  kea_rh_o
-	kx_eo
-	kna_ml
-	khmer 
+	kna.ml
+		krw.ea
+		khmer
+	kax.eou
 gls.d

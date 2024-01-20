@@ -17,8 +17,8 @@ brts_e^d:abrs.brts.args
 		lst.atrzk
   bds
 
-  ktn.rsk^t //tk tsk tzk 
-    dlt^b
-    rls_e
+  ktn.rsk^t
+    //dlt^b
+    //rls_e
   lck
 ltlr

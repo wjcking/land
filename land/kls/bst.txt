@@ -1,12 +1,12 @@
 ﻿/*
-*英特立尔 凯比_礼儿_努尔
+*英特立尔 凯比_努尔
 *贝欧斯克:基础和主体
-*塞得 萨得
+* 塞得 萨得
 * 艾德莱斯//附属物
-* 凯乐:形体塞克.铯柯:形态认知 Morphology
-*   伊殿
+* 凯乐丝克:形体.形态:铯柯
+* 伊殿
+* 能量
 *兰德: 地界
-*能量
 */
 kls_wo.ltlr.knr_wo.kad
   //b.sak.d
@@ -24,8 +24,8 @@ ats
 //Rastera\intellyer\rikes.html
 //Rastera\intellyer\rystera.html
 kld:bst
-	atz.zsn //tas^n
-  wsk_c
+	atz.s //tas^n
+  wsk.cz
   lwsk.wks
   
   //dns krx

@@ -1,4 +1,6 @@
-﻿hd.fst^r.rl
+﻿rkb
+
+hd.fst^r.rl
   tap.gat
     brn.lck.anu_o.tk_e //mega.beoris //不与克莱斯顿  
   nak.wst

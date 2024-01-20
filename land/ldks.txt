@@ -1,16 +1,12 @@
 ﻿k:kst
-kd.ks
+kl.sk^r
+kd.ks //ltl.fdl_en.ldx
 kb_nr
-//kl.skr
-k
-  kl_r_a
-  skr:rlc.sa_i
-r
 
 //land
 lts_w
 
-//k^b_nr
+//kb_nr
 k:h.l.m
   hzk.asdr:k_h_l  
   mks.msk_en.lts.mst_ch  

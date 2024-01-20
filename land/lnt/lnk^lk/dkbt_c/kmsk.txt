@@ -1,20 +1,21 @@
 ﻿rkb.ltlr.dkbt
   ln.ktk_ant
-    br_ln.lck
-  lyr.lsa //lsn_enr
+    brk.lck
+  lsa //lsn_ear_n
 
   //NoseDragout
-  nud_o
   bk_i.nk_we.and_no 
-    smtk.mdr
+    mtk^s.mdr
     fld.nk //slaw-spt_i
-  mas_aou.sbk_p
+		//mas_aou.sbk_p
+  nd_wou
 
-  hnd.rsk
-  bda^o.lnt.cht
+  hd.rsk
+  hrs.lnt.cht
 bts_er_d.lsk^c //Transplant
 
-mfs_n.chf_wa_ou://truffle
+//truffle
+mfs_n.chf_wa_ou:
 fag
   gus:tub
 fug
