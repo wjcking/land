@@ -1,5 +1,5 @@
-﻿kst.f^a
-krs.fks
+﻿kst:kfs
+krs:fks
 //nk_an:annk:kat_e^d:al
 //lnt_kt_c
 afk

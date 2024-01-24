@@ -14,7 +14,7 @@ its.k.knt.dth
 ltx.its
 	u.n
 	n.u
-ktv:kvt^n
+kvt:ktv^n
 
 ksn
 	kit:kvt

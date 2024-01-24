@@ -1,6 +1,6 @@
 ﻿k:kst
 kl.sk^r
-kd.ks //ltl.fdl_en.ldx
+kd.ks //ltl.tls.ldx
 kb_nr
 
 //land

@@ -24,7 +24,7 @@ ktr:kdr
 		kit
 		kiz//kaz
 	knt.knk:kts
-krt//kld.ain.trk:rns
+krt:kld.ain.trk:rns
 
 krt
 	krt^a.r

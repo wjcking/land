@@ -9,8 +9,8 @@ irk.ilk.ist //ast.k
 kst.kns
 lsd
   k:t
-	kvu:tuv
-  kvn:tnv
+	kuv:tuv
+  knv:tnv
   kit
 
 	irk

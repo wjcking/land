@@ -7,5 +7,8 @@ kri.ltl
 kiz:knk
 kiz.knt.ksk //msk
 
-//kez.kmtx
-//kast.tak.lnt
+//kaz
+//	ken:kekn
+//	tlk^z:kez
+//	kast.tak.lnt
+//kntx

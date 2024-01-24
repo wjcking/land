@@ -23,5 +23,5 @@ sls_ae_sh
   kd_i
   sd_a
 
-  ltls^r
+  tls^r
 slk_wo
