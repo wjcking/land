@@ -1,6 +1,6 @@
 ﻿rts
 rst	
-trx
+//trx
 rst.i.l
 
 tls:tis.ink.lk.in //an stk.etx.txh

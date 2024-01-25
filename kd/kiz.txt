@@ -2,13 +2,13 @@
 	skr.itk //cnr.mrs kl.ank.trs.brt
 	rks//rkb
 	rsk//rbk
-kri.ltl
+kri:ltl
 
 kiz:knk
 kiz.knt.ksk //msk
 
 //kaz
-//	ken:kekn
+//	ken:kenk
 //	tlk^z:kez
 //	kast.tak.lnt
 //kntx

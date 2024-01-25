@@ -1,0 +1,18 @@
+﻿itlrs.tls_wo.kpt_un_non
+klst_or.rtn
+  ldx
+  krlt
+  
+  rbd.msh
+  rkb
+
+  lsls
+  abs.k
+ fsh.lks
+
+vbs.ftn.lks
+
+klsd_en.klz_a
+ klz_lao.krs^r
+ tsh_enks
+pd_an

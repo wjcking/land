@@ -1,10 +1,12 @@
-﻿txh
+﻿txh.rzk
+
+tx:q.ao
 	sh
-	tx
-	ch 
-	zh 
+	ch
+	zh
+	//rns
 	th
-rzk
+tv:l.tx	//lvch ln7s
 
 位塞(铯)忑 
   开出扯^差^卡^折 //kai  chu che cha

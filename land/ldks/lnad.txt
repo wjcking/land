@@ -1,7 +1,4 @@
-﻿//rastera\kinect-globe\workgroup.html Left 2  23：08 SleepNot 
-psk
-
-ld_an:ltl:mel
+﻿ld_an:ltl:mel
 ark:lnad
 alk:lkn.lek.ld:lank
 
@@ -31,7 +28,7 @@ klsk
 *伊莱克斯
 * 凯尔瑞特 钛康恩
 */
-ilks.lnd_ena
+ilks.lnad
 atms.blskn
   pst.vls
   ptk^a

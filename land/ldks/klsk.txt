@@ -1,0 +1,27 @@
+﻿hrs.tri.skr//LED:RGB
+
+ats.at^n.hxs
+rtl.atlr
+ftn.fsh:rsta
+isk:itl
+
+//EN CHK KLK
+trk.ln
+	mts.skr.kl //smt
+		aks:tsk
+		fkt.an:kfs
+		lkt.ae:lks
+		
+		kmr:lrk
+	kns.kmtx
+	
+	abt
+	rsk.rsh
+	bsk
+	lck:ltl
+	
+	//MONIKA
+	msk.kan.c
+	mnk.a:ftn.rds
+	kbt.tfs
+klk.en

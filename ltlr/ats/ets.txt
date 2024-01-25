@@ -3,8 +3,8 @@ nks.vts.vls //ftn.kbt.lnch_e
 
 ltx^s.y //E lntxys lnk.smt
 
-nts.e:r
-nts.ln.hlx
+nts.e:r:nks
+nts.ltx 
 
 esh.lnch.ash//lvk E pst.knt atv.esh
 	ash^ch
@@ -20,4 +20,4 @@ ech^s.achs:ltx.ys
 
 lty.nts:ltx.y //ln7s lsls
 qty:ltx.y.bds //els chf.txqys quqs qtx
-ltz^n.s:ltx.z:atz
+ltz^n.s:nts:atz //hnlx
