@@ -1,18 +1,20 @@
-skr.b
-//所有:动不.向
-tns:k
-jxs
-//绝对二元
-abs.k
-
-//一元对诀
-//达承一之
+//一元
+//一之.达承
+//不动:所有.向
 tlk.hlk.rkb:rth
+
+skr.b
+ats.jts
+mts:ist.k
+
+//二元
+abs.k	
 
 ftn.ats.kst^a.ear
 
 rck
 	vbs:lds
 	lnad.kbt.mgn.lk
+	//hnlx.gts:abs.lwt
 rsl
 
