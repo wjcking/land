@@ -11,7 +11,6 @@ mds
 abs:ats:trs.k^l
   aps //o
   abs.k //oe ao:kt
-  //hnlx.gts:abs.lwt
 abt.ltx
 
 //贝欧斯克 一元对决
