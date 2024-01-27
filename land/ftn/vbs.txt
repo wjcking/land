@@ -3,7 +3,7 @@
 *12345678 90 abc 钫得 한국어 にほんご 
 */
 brts
-vbs.st:kat.ltb
+vbs_kat_ltb
   vc_e
   vk_e
 	vd_e
@@ -24,5 +24,5 @@ smt
 	//nr.kb sb.lk
 	hzk
 	fks
-	tbl_n:tmb_ln.hlkt //mlkrmw
+	tbl_n:tmb_ln.hlkt //rmw
 syd

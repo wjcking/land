@@ -25,7 +25,7 @@ ats
 //Rastera\intellyer\rystera.html
 kld:bst
 	atz.s //tas^n
-  wsk.cz
+  wsk.zc
   lwsk.wks
   
   //dns krx

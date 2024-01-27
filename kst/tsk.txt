@@ -2,20 +2,10 @@
 t:s.i
 	t
 	k
-
 	tk
-	//kt
+	//
+	kt
 ist
-
-//rkb.ksk.fst
-//rl:tri.skr
-//vst.bst
-kst.tsk.bst
-i.t
-	r:rr:n
-	s:i
-	i:a
-r
 
 //itr.tsn.rns.stk
 trk

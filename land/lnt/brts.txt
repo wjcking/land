@@ -7,8 +7,8 @@ brts_e^d:abrs.brts.args
   kln.pls_dr.ltlr:asak:lsa^t
   ~kr^tk_ea^l //Add Paskeful.PiorityFirstly.Index
 
-    lck^g.kamsk_an.lnchmt_rer_ar
-    rdf:chf_a:mfs //wabst:tmb_ln.hlgt
+    lck^g.msk_kan
+    rdf:chf_a:mfs //vbs:tmb_ln
 
     mlk_er
   klt

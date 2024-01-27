@@ -4,11 +4,11 @@
 tlk.hlk.rkb:rth
 
 skr.b
-ats.jts
+ats.jts.tns:tsn
 mts:ist.k
 
 //二元
-abs.k	
+abs.k
 
 ftn.ats.kst^a.ear
 

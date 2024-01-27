@@ -1,9 +1,0 @@
-﻿kbnr.mks.nks
-ltlr.lsd
-vsd.itbs
-
-vst:bsd//sab.stu.tud
-  vsd_al:krt_a:
-  ktr:ktl:klt_an_e^d
-  vsd_la:krk_a^t:
-slt.bsk

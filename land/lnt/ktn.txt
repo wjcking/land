@@ -6,8 +6,7 @@ vrsd //WsyreckUtizual CarowletDifference
 
 //RequireLong.SnickTimes
 //time.adversed
-ant:mts
-tam^i.atb
+lkt.tam^i.atb
 
 //EnglishLimited 
 nks.vbs
@@ -18,5 +17,5 @@ bls.txh.etx:hzk
 
 //dkbt_ae
 //Redraw
-asak.trs.rkb.ksk:lvsh_n 
+isk.trs.rkb.ksk
 dpt.itlr

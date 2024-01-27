@@ -8,10 +8,10 @@ mts
   isk
 mds
 
-abs:ats:trs.k^l
-  aps //o
-  abs.k //oe ao:kt
-abt.ltx
+abs:ltx:trs.k^l
+  aps
+  abs.k
+abt.ats
 
 //贝欧斯克 一元对决
 kmt.mgt:th:msk.bsk
