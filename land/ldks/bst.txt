@@ -17,7 +17,7 @@ kls_wo.ltlr.knr_wo.kad
   dsn^a
 	dnk.abs
 
-  hlk.ltx//htk.wmz.kht.blsgn
+  hlk.lnt//htk.wmz.kht.blsgn
 ats
       
 //trace.html

@@ -22,7 +22,7 @@
   阿萨尼亚柯^艾昂尼柯
   格兰蒂亚^~克莱得曼 //莱昂纳得
   根达亚 印加 玛雅
-  //Ats.ltx:W(Rice)M:L(Inhelik:Interik)R
+  //Ats.lnt:W(Rice)M:L(Inhelik:Interik)R
   //mes~o.pao.tma_iy.ksd_ao.lshn_a
   //rks:rcs:mspats^le_wo^x 
   苏美尔: 美索不达亚(米)美索帕特斯 米索忑(丝)希奥丝 

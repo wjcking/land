@@ -33,6 +33,14 @@ atms.blskn
   pst.vls
   ptk^a
   psh_aeu
+	
+	//trs.chf.hrs
+	tlz
+		//katzk
+		kaz.tlk.d
+		klk.bz.lnt.dtx
+		kld
+	lks
   //sunlask
 klst.lck
 

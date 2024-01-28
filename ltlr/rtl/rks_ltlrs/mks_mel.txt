@@ -6,7 +6,7 @@ msn
   ks
 msl
 
-ltxs.aps
+lnts.aps
 blz.bkr.wds
 mth
 mtu

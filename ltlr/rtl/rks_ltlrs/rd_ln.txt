@@ -1,4 +1,4 @@
-﻿ars.ats.ltx.atbs
+﻿ars.ats.lnt.atbs
 rcs:are.fsh:vrsk
 
 rd:rsh.ery.rsk//木柯冗元 好各兀五远
@@ -20,7 +20,7 @@ l.sks
   //s.t.z jxs pst.knsh
   //rikes.html
   kst_ra
-  rcs.ltx.nks_mdv
+  rcs.lnt.nks_mdv
   thr^ra.zh^eu:
     zh.kt.en^u.c //元支 enstruct
     rv^n.th^s

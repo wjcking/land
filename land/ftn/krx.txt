@@ -11,5 +11,5 @@ krt_e
 krx
 	axs
 	fls
-	ltx
+	lnt
 txh

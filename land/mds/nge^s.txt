@@ -14,7 +14,7 @@
 flc.fr.xs^l //w
   lif:hnk:mik
   flt:tak
-    tif.ltx.hns
+    tif.lnt.hns
   flt.mts^l
 blk
 

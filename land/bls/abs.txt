@@ -8,7 +8,7 @@ mts
   isk
 mds
 
-abs:ltx:trs.k^l
+abs:lnt:trs.k^l
   aps
   abs.k
 abt.ats

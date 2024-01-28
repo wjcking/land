@@ -22,7 +22,7 @@ blt:ksh:kzn
   utz^w //W O L
   utlz
   unf_l
-vls.ltx
+vls.lnt
 /******/
 比利:因特利尔
 用途:英特里克

@@ -1,9 +1,9 @@
 ﻿kde
 kts.kdz:stk.tks
 
-//kzt.c.ltx
+//kzt.c.lnt
 //tzk^e.s.its.ch
-//tsk^e.z.ltx.ch
+//tsk^e.z.lnt.ch
 //tks^e.z.its.th
 //tks^i.zh.gts
 
@@ -11,7 +11,7 @@ ist.k.tkn
 //dns:ats.k.ktn
 //dns.kzn:pst
 its.k.knt.dth 
-kvt//ltx
+kvt//lnt
 	u.n
 	n.u
 kt.i:vst //ktv lntx tv h

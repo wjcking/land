@@ -9,7 +9,7 @@ rks:ars
 	ats.m:lts_w
 	gts
 	kkd.an:pst.knt
-	gsk.ltx
+	gsk.lnt
 ags^r
 
 /*

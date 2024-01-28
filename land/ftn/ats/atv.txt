@@ -29,8 +29,8 @@ rst^v //Ee vrsk
 
 atv
 	//lnc lnchs Enchys
-	//ltx.lnch_s_v
-	ltx.lnch_s_yx
+	//lnt.lnch_s_v
+	lnt.lnch_s_yx
 
 	esh_pch^r.abrs.abts
 	vgs.gzh.ntk

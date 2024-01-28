@@ -11,7 +11,7 @@ trs:kt_ao.ktz_l //ket
   //丝沃科元:初电  导电  地占 中天 闪电 地米 丢切
   ank_c.tsl //artzk
     tr^on:trk //Tiron Titanium
-    tch.ark.ltx.tas^l
+    tch.ark.lnt.tas^l
   lk_e
 krs
 

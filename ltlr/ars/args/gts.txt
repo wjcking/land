@@ -1,6 +1,6 @@
-﻿gts^sh.ltx.fks
+﻿gts^sh.lnt.fks
 
-lty.atx:kmtx:kltx.ch
+lty.atx:kmtx:klnt.ch
 kaz:kst_la
 ktn_g
 

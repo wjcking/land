@@ -21,7 +21,7 @@ ktn:knt.krd
 ktr:kdr
 	tsk
 		kit
-		kiz//kaz
+		kiz//kaz kdrz
 	knt.knk:kts
 krt:kld.ain.trk:rns
 

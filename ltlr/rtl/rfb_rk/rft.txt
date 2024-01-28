@@ -26,7 +26,7 @@ Refine
 
 Raferal:Intelick.Rind.Koz
   S.L=CXC+  //Meget.Kater enunix.svg  
-  O.V.ltx=aeiou //呕  
+  O.V.lnt=aeiou //呕  
     O:SolofulGotten //O^micron
   O.L==C.L
   O.S=AES 
