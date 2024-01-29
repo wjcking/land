@@ -7,14 +7,14 @@ kts.kdz:stk.tks
 //tks^e.z.its.th
 //tks^i.zh.gts
 
-ist.k.tkn
+ist.k.trk:tkn
 //dns:ats.k.ktn
 //dns.kzn:pst
-its.k.knt.dth 
+its.k.int.knt.//kth.thk:dth
 kvt//lnt
 	u.n
 	n.u
-kt.i:vst //ktv lntx tv h
+kt.i:vst //ktv lnt.x tv h
 
 ksn
 	kit:kvt

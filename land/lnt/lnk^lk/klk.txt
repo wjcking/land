@@ -1,0 +1,21 @@
+﻿//EN CHK KLK
+klk.en.trk.ln
+
+mts.skr.kl //smt
+	aks:tsk
+	fkt.an:kfs
+	lkt.ae:lks
+	
+	kmr:lrk
+kns.kmtx
+
+abt
+rsk.rsh
+bsk
+lck:ltl:isk
+
+//MONIKA
+msk.kan.c
+mnk.a:ftn.rds
+kbt.tfs
+

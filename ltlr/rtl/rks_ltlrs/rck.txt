@@ -1,18 +1,19 @@
-﻿vst.txh
-  //岩笋石中乳:轴陨州 房分日次克:十子间  
-  //lisnk(s)lithc
-  //linthec sdeon reoks 
-  //rystera.iterate:aerofushen
-  //paleo meso neo bronze 
-  //thropus
-  //chalco:lithic:utilitarian
-	//红同色.后面侯 
-	//青铜皮 通骨特
-  copper kolour laskrepdub
-  helak//χρήση chrísi utisoil earsly
-	iron
-	//hominins:khmer:vrsd
-lck^r
+﻿/*
+*炎孙石中入:轴陨州 房分米次柯:十子间  
+*lisnk(s)lithc
+*linthec sdeon reoks 
+*rystera.iterate:aerofushen
+*paleo meso neo bronze 
+*thropus
+*chalco:lithic:utilitarian
+*红同色.后面侯 
+*青铜皮 通骨特
+*copper kolour laskrepdub
+*helak//χρήση chrísi utisoil earsly
+*iron
+*hominins:khmer:vrsd
+*/
+vst.lck^r.txh
 /*
 *作受相 手皿地 蜥蜴  需比达勃 //Ripdap?.Jaoint.Apisake
 *Pithecus Sympathetc Monkey 
