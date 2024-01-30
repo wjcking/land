@@ -2,7 +2,7 @@
 rns.ftn.itls
 
 vrsk:rck.vsd
-vrsd.dls.ict
+vrsd.dls.vls
 krls:kldr
 
 //ltl.tls.ldx
@@ -14,8 +14,13 @@ ars
 	rgs
 	
 	lnt.jxs
+	
+	kst.kvt
+		vts.vls
+		wt_h.ml^s
+	kzt.kts
+	
+	knt.ksk.mst
+	msk
+	mks
 ats
-
-knt.ksk.mst
-msk
-mks
