@@ -1,18 +1,17 @@
-﻿kde.kzt:tzk
+﻿kzt:kb_nr
 
-kts^z
-	//azt.k
-	//asnk
-	//echs^sh.lxa.itr
+kzr
+	krkz //krlt
 	
-	kzt^s^c.trs //l.rst
-	kct
-
-	kzr
-	krkz
-
 	kzl.lsk	//lst.ksl
-  
+	
 	kzlz.isls
 	kzl.sw^h
-ktz.c
+krs
+
+kts^z:ktz.c
+//azt.k
+//asnk
+//echs^sh.lxa.itr
+kzt^s^c.trs //l.rst
+kct

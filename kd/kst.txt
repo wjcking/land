@@ -10,7 +10,7 @@ kst.kns
 lsd
   k:t
 	kuv:tuv
-  knv:tnv
+  kvn:tvn
   kit
 
 	irk

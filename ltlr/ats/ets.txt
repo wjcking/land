@@ -3,7 +3,7 @@ nks.vts.vls //ftn.kbt.lnch_e
 
 lnt^s.y //E lntxys lnk.smt
 
-nts.e:r:
+nts.e:r
 nks.lnt 
 
 esh.lnch.ash//lvk E pst.knt atv.esh
