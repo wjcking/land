@@ -5,22 +5,25 @@ vrsk:rck.vsd
 vrsd.dls.vls
 krls:kldr
 
-//ltl.tls.ldx
-//lts_w:kb_nr
 land:irk.ilk.lank
 
 ars
 	brs
-	rgs
+	grs
 	
-	lnt.jxs
+	jxs.lnt
 	
+	mwz:kaz:knk
+	
+	lts_w:kb_nr
+	ltl.lnt.tls^z
+	lks.krs:axs
 	kst.kvt
-		vts.vls
+		vls:vts
 		wt_h.ml^s
 	kzt.kts
 	
-	knt.ksk.mst
-	msk
+	mst
+	msk.knt.ksk
 	mks
 ats

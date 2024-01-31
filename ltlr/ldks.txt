@@ -1,23 +1,15 @@
-﻿k:kst
-kl.sk^r
-kd.ks //ltl.tls.ldx
-kb_nr
+﻿kst
+skr.krs//kl.kd.ks ltl.tls.ldx
 
-//land
-lts_w
+//lts_w
+itls:lank
 
-//kb_nr
-k:h.l.m
-  hzk.asdr:k_h_l  
-  mks.msk_en.lts.mst_ch  
-m.alk.msk
+kb_nr:kde
 
-//ltl.ltls.skr.mkr
 ltl.r
-  annl:lct
+  annl.lct
   hrs
-
-  rl:lk_wo
-	gsk
-  mgn:mch
-mds.k
+  
+	gsk:rsh:mth
+  mgn:lk.wo
+mks.d
