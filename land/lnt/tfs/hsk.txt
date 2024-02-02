@@ -6,15 +6,15 @@
  *美钻辰
  */
 vks.ltls
-  dzh_g.mtk.rtl.rts.krls  
+  dzh.mtk.rtl.rts.krls  
   rl.isk.vts^kl //szn ksk
 
   ldx.kl //及申
   krlt^ch^r
-  krl_r
+  krl
 	
   hbt
-  hdl_ear_ol.asz
+  hdl_ear
    dmk.msh
      mst^an.mth//及申
    dvs //rst^kr

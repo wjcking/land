@@ -15,7 +15,7 @@ kdrz:kdz.rls
 	knk.hnlx.vst
 	khk.gts^hm.kzt.txh
 	
-	mkr.mks.mel
+	mkr.wks.mel
 land
 
 

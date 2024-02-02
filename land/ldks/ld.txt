@@ -7,23 +7,33 @@ krls:kldr
 
 land:irk.ilk.lank
 
-ars
-	brs
-	grs
+irs
+	grs.ist
+		blg:plg.ew
+		glt.an:d
+			glb:blg //rpt
+		kld
+	gls.its
+brs
 	
-	jxs.lnt
+jxs.lnt.gts.ats
 	
-	mwz:kaz:knk
-	
-	lts_w:kb_nr
-	ltl.lnt.tls^z
-	lks.krs:axs
-	kst.kvt
-		vls:vts
-		wt_h.ml^s
-	kzt.kts
-	
-	mst
-	msk.knt.ksk
-	mks
+kst.kvt
+	wt_h.ml^s
+	vls:vts
+	kvn:kuv:kvt.tkn
+kzt.kts
+
+mwz:kaz:knk
 ats
+	ld.nk
+	nk.lan
+lnt
+
+mst
+msk.ksk.kmt
+mks
+
+lts_w.gts:nks
+ltl.tls^z.lnt
+lks.krs:axs

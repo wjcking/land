@@ -18,11 +18,11 @@ klr
   宇宙
 优先于级别:绝对昱对觉?:梅洛克 
 
-blt:ksh:kzn
-  utz^w //W O L
-  utlz
-  unf_l
-vls.lnt
+blt.ltlr:ksh:kzn
+  vtz^wu //W O L
+  tlz.u
+  tlz.fks.un
+vls.vts.lnt
 /******/
 比利:因特利尔
 用途:英特里克
@@ -37,12 +37,13 @@ vst.w
   全部:汇聚.关键
 纹斯特 
 
-kns.knt
+knt.kns
 knt^i:mth
 
 knt_e
 knt^an
 knt^ao_ln
+glb.knt //ats.lnt.mkr-glb:rpt
 /******/
 数量-重复
   个数
@@ -59,11 +60,9 @@ kzn
   同步 //人类.达成一致  同步.绝对
 序列:付动 用动 栈动 开尔锐特
 
-kst.ist-vzn
+kct.ist-vzn
 rft
-  rds:srd^a.dls^z
-    
-  rdf:frd_e
+  srd^a.dls^z
 fld^l^wu
 /******/
 塞尔夫瑞特:水,众说纷纭 ,看似有序,不好顺序; 术量.多数优先    

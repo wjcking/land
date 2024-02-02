@@ -1,23 +1,25 @@
-﻿ats.ates
+﻿ats.e
 nks.vts.vls //ftn.kbt.lnch_e
-
 lnt^s.y //E lntxys lnk.smt
 
 nts.e:r
-nks.lnt 
+nks.lnt:e:r.n
+lnt^e.hsk.txh:esh:rsh.lnsh
 
-esh.lnch.ash//lvk E pst.knt atv.esh
-	ash^ch
-		lbt:hlsh.nsh
-		nlu_s.u.bls //lsbnlu:hspnk_z
-	hsh
+esh
+	//ash^ch
+	//	lbt:hlsh.nsh
+	//	nlu_s.u.bls //lsbnlu:hspnk_z
+	//hsh
+
+	//mtl_u_w.tls.d
+	//msl.ks:ech^s:hsh
+	//els:lsh.in.esh.ln
+
 	//achs_esh
+	//ech^s.lnch:lnt.ys
+lnsh
 
-	mtl_u_w.tls.d
-	msl.ks:ech^s:hsh
-	els
-ech^s.achs:lnt.ys
-
-lty.nts:lnt.y //ln7s lsls
+lty.nts:lnt.y //ltv.n ln7s.l lsls
 qty:lnt.y.bds //els chf.txqys quqs qtx
 ltz^n.s:nts:atz //hnlx

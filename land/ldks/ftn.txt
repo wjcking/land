@@ -13,6 +13,6 @@ klst_or.rtn
 vbs.ftn.lks
 
 klsd_en.klz_a
- klz_lao.krs^r
  tsh_enks
+ klz_lao.krs^r
 pd_an

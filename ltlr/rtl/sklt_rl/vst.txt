@@ -5,7 +5,7 @@
 *结界 宇 打七层 宙
 *星际牵引 可变性
 */
-mtk_sa
+mtk_a
 rkb
 nud_o.sls_n
 bsh.ln
@@ -13,8 +13,8 @@ hsh.l.n
 vts
 
 adv.rtl
-  sld_en
-  flx
+  //sld_den
+  flc.fsh^x
     fld
   fbn^d //被定性
 vgs

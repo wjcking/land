@@ -7,7 +7,7 @@
 *thropus
 *chalco:lithic:utilitarian
 *红同色.后面侯 
-*青铜皮 通骨特
+*通骨特 青铜皮
 *copper kolour laskrepdub
 *helak//χρήση chrísi utisoil earsly
 *iron
@@ -32,7 +32,7 @@ vst.lck^r.txh
 lck^g
   ach:ape.lsk bbw.nsk
   mts:mnk_an.plt^s 
-  gts:grl_a.dvd_e
+  grs:grl_a.dvd_e
   
   pzh_ch.prt_s:brt.sl
   pth.kts_c
@@ -42,7 +42,7 @@ lck^g
 hlk.kdks:mtk.ldnk
 
 ktn.rnb.dub
-	atu.rkx
-	atr_c.ark_col //Oracle Alcohol
-	kldr-klsdn
-abt.abs
+	atv.rkx
+	atr_c.akr //Oracle Alcohol
+	klsdn
+abs

@@ -25,13 +25,13 @@ trf
   brt^r.skt.th.ch.pzs^a
 
   //hst^gho:Ground,Cities
-  gst
   gsk^ea:hrkt //Gothet
+  gts
 
  //Underground,Ground
-  dwf_a.hdz
+  wfs.dwf_a.hdz
     gbl_n
     gm_wo
     unds_a^th
-  nmk^a:nr.nk.nk^a
+  nmk^a:kna.ml
 tlf:mch_r.th

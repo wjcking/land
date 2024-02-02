@@ -1,13 +1,22 @@
 ﻿/*
 *英特立尔 凯比_努尔
 *贝欧斯克:基础和主体
-* 塞得 萨得
-* 艾德莱斯//附属物
 * 凯乐丝克:形体.形态:铯柯
+* 	塞得 萨得
+* 	艾德莱斯 //附属物
+* 	能量
 * 伊殿
-* 能量
-*兰德: 地界
+*兰德:节介
 */
+kls
+	lds.lank:dls
+	nk.lan
+	sls.swr:mkr
+	krl.rtl
+	mch.lnt.tfs
+	klt.lts
+lsk
+
 kls_wo.ltlr.knr_wo.kad
   //b.sak.d
   //sad.sk

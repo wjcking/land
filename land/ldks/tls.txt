@@ -1,7 +1,8 @@
 ﻿/*
 *Interllyis
-*Aretczk Arytezk Arytezk
-*atrzk.html
+*atrzk
+*land\lnt\kls\kls_w
+*land\lnt\kls\lsk_w
 *amrk\aymerk.html
 *
 *reatera\workgroup.html
@@ -16,7 +17,7 @@
 	//mts.lnt:W(Rice)M:L(Inhelik:Interik)R
   //mes~o.pao.tma_iy.ksd_ao.lshn_a
   //rks:rcs:mspats^le_wo^x 
-  苏美尔: 美索不达亚(米)美索帕特斯 米索忑(丝)希奥丝 
+  苏美尔:美索不达亚(米)美索帕特斯 米索忑(丝)希奥丝 
     拉河尔:拉美希斯.匹若(乐)米的丝.克洛维斯(忑) //Pyamid:Pyrimind
     干么拉比:又发拉地
     *八比伦 巴个的
@@ -26,7 +27,7 @@
     甘莫尔克:底格里斯
   斯洛克:康杰特.梅林克.每罗柯:塞洛特 //E.Mespotya 
 	
-  阿兹太柯^凯米特
+  阿兹太柯^凯米特:艾萨尼亚克
   阿萨尼柯^艾昂尼柯
 	根达亚 
   印地安
@@ -38,11 +39,12 @@
   格兰蒂亚^克劳地亚 //莱昂纳得
   亚特兰蒂斯 
   利姆利亚
-	
-艾么尔克:加尔.瑞得:艾洛.阿萨尼克:勒切尔//jaw era rid retro
+艾么尔克:加尔.瑞得:艾洛.恶各:尼克//jaw era rid retro
 
 凯尔瑞特:克里得
-   //ENZO
+	//斯洛克.克立特.艾瑞克
+	//塞乐士
+	//ENZO
   爱磁欧:中继器.终继站//Rastera\revenge\rely.html 
     采光石
     磁欧石
@@ -56,7 +58,4 @@
     *塔希佗
     贝塞斯达  
   洛特丝//罗塞塔
-艾瑞次克:克立特
-//斯洛克.卡尔洛特
-//塞乐士 
-阿兹特克.阿萨尼克:艾萨尼亚克
+卡尔洛特

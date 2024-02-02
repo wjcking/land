@@ -34,13 +34,13 @@ ank^ago
 //凯乐斯科 凯德斯克
 //维赛德 海力 凯特
 kdks.klsk.hlkt.skr^ary
-  mkr.gry     //Grey
-  vns^na     //Brown and grey.
-  ech^s      //Blue, brown green and white.
-  mrs         //Red, brown and tan.
-  pit.j          //Brown, orange and tan, with white cloud stripes.
-  tun^s      //Golden, brown, and blue-grey.
-  vls_uw     //Blue-green
-  ptu^n     //Blue.
-  plt^ou     
+  mkr.gry //Grey
+  vns^na //Brown and grey.
+  ech^s  //Blue, brown green and white.
+  mrs //Red, brown and tan.
+  pit.j  //Brown, orange and tan, with white cloud stripes.
+  tun^s  //Golden, brown, and blue-grey.
+  vls_uw //Blue-green
+  ptu^n //Blue.
+  plt^ou 
 vsd.annk^n.lts^w
