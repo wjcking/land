@@ -1,33 +1,13 @@
-﻿knt.trk//kad_e:kank_d
+﻿knt.trk
 
 trk.ktr^d
 	h.irk.ilk
 	h.iank.tsn
 	h.tsk.i
-	n:h.s.l //atsk.arst kmt.h.pst.knt_aln3
+	n:h.s.l //kmt.h.pst.knt_aln3 atsk.arst 
 	
 	ksk
 	knk:h:ktk
 		h:k:t:kiz //kaz kast
 	khk
 krt^d
-
-/*
-*https://www.mathsisfun.com/geometry/
-*hdl.tuk
-*knt.kmt.kmtx
-*/
-ktn:knt.krd
-ktr:kdr
-	tsk
-		kit
-		kiz//kaz kdrz
-	knt.knk:kts
-krt:kld.ain.trk:rns
-
-krt
-	krt^a.r
-	krt^e.i
-	//krt^ar.ibt.rt:kdr
-r.ist.tx.k
-

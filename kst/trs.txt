@@ -3,6 +3,8 @@ rst
 //trx
 rst.i.l
 
-tls:tis.ink.lk.in //an stk.etx.txh
-lst:ist.r//txc
-//tsl.astk
+//tls
+//tis.ink.lk.in
+//lst:ist.r
+//txc
+//tsl

@@ -1,18 +1,18 @@
-﻿kde
-knr_wo.kb_nr
+﻿kde.kb.nr
 
 ksk:knk
 kst.tsk
 
+//s.z v
 kzt
 	ku
   kn
-kts.z.stk
+kts.stk
 
-tzk.s
+tzk
 	tu
   tn
-tks.z
+tks
 
 
 

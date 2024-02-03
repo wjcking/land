@@ -11,4 +11,4 @@ kiz.knt.ksk //msk
 //	ken:kenk
 //	tlk^z:kez
 //	kast.tak.lnt
-//kntx
+//kmtx

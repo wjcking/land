@@ -10,11 +10,11 @@ kts.kdz:stk.tks
 ist.k.trk:tkn
 //dns:ats.k.ktn
 //dns.kzn:pst
-its.k.int.knt.//kth.thk:dth
-kvt//lnt
+its.k.int.knt//kth.thk:dth
+kvt
 	u.n
 	n.u
-kt.i:vst //ktv lnt.x tv h
+kt.i:vst //kt^v lnt.x tv h
 
 ksn
 	kit:kvt

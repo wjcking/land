@@ -1,5 +1,11 @@
 ﻿trs.krt
 
+krt
+	krt^a.r
+	krt^e.i
+	//krt^ar.ibt.rt:kdr
+r.ist.tx.k
+
 krx.krk
 krl_e
 	r.ist.ln

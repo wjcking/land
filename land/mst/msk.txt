@@ -1,6 +1,6 @@
 knt.kmt.msk
-//ktk:h.jts.mts.kst^a 
-
+//kts:h.jts.nts.kst^a 
+//tkn:nts
 k
 	u:wt_h
 	n:ml^s

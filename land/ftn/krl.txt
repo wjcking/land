@@ -9,12 +9,12 @@ krl.bsk_ol
 	jxs.ats
   kbt:pd.ftn
 	
-  lks_ln
+  lks
     skr:krd^ktr_d
-  fks.ln //fnc
+  fks //fnc.fst
 
-  rxs_e_ks
-  lks^a
+  rxs
+  lks.r
 
-  trs^tgs.tls
+  trs^gts.tls
 brs^a

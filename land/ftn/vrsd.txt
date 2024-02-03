@@ -7,15 +7,15 @@ krls
 	ulxs.jts.lxa
 kldr
 
-gls_c
+gls
 	//atv.una_sha
 	//georgia
 	//greek:glck.kld:hlk_en.skr_eou
 	//laos.burma.cambodia.miadian
 	//thailand
     
-	kna.ml
-		krw.ea
-		khmer
+	knm
+		klm^w.ea
+		khm.er
 	kax.eou
-gls.d
+gls.al

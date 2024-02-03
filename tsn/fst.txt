@@ -1,12 +1,9 @@
 ﻿ksn
-rks.ltl
 
-kst.bsk	
-	trs.krs:lks.fks //l.f
-
-	trx.krx.hlx
-	trk.krt.flt
-	fst.mth
-	
-	tfs.kbt.abs
-rkb.blk//l.f iank
+kst
+	trs
+	//b.l.f
+	krs
+	lks
+	fks 
+bsk	

@@ -1,20 +1,12 @@
-﻿arst
-lnk:n mrk:e
+﻿lank //nk.lan
 
-abrs.tsl
-kld.trk
-
-blt
-  lax.rck
-  lex.els//bls_arls_wu*
-
-  nk
-    nak
-    nkl
-      vts^a.wgs
-    ngl //l_*
-    nmy.vks.ltls
-    msk^en
-  lan.bk
-  //an.nk.sk^a
-tlk^d
+blk.tld
+lxa.rzk
+lxy*tsl.els^r //tesle lnt.echs
+	
+nkl.bls*tsl
+vts^a.wgs
+kln.ao
+nmy.vks.ltls
+msk
+  

@@ -1,14 +1,13 @@
 ﻿krs.trs^l
 
 brs:l
-	etx
+	ext
 	txh
 
 	x //zn
 kct:rcs
 
-vst.dls
-rst.ld.an
-kb_nr
-isd.irk
+vst.rst
+
+
 
