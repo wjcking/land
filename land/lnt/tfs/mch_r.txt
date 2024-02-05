@@ -29,7 +29,7 @@ trf
   gts
 
  //Underground,Ground
-  wfs.dwf_a.hdz
+  wgs.dwf_a.hdz
     gbl_n
     gm_wo
     unds_a^th

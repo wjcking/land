@@ -24,8 +24,8 @@ blt.ltlr:ksh:kzn
   tlz.fks.un
 vls.vts.lnt
 /******/
-比利:因特利尔
-用途:英特里克
+比力:因特利尔
+伯利:英特里克
 
 klt^s
 vst.w
@@ -42,8 +42,8 @@ knt^i:mth
 knt_e
 
 knt^an
+	glb^wo:wkd //ats.lnt.mkr-glb:rpt
 knt^ao_ln
-glb^wo:wkd //ats.lnt.mkr-glb:rpt
 /******/
 数量-重复
   个数
@@ -61,13 +61,13 @@ kzn
 序列:付动 用动 栈动 开尔锐特
 
 kct.ist-vzn
-rft
-  srd^a.dls^z
-fld^l^wu
+dls^z:trx
+rft:fld:ftn
 /******/
-塞尔夫瑞特:水,众说纷纭 ,看似有序,不好顺序; 术量.多数优先    
-   浮动:伏特:付来的:菲尔的:菲利特
-    量术.一个: 海洋全球流通
-    程度.广透 深度.感情色彩
+芮付特
+	众说纷纭 看似有序.多数先优    
+  浮动:伏特:付来的:菲尔的:菲利特
+  量术.一个: 海洋全球流通
+  程度.广透 深度.色彩情感
   波动:付礼特:萨复特:萨尔复特.塞尔复得.塞尔达 
-阿尔夫来的
+夫来的

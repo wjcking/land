@@ -22,7 +22,7 @@
   介支  
 
   齐中
-    //铅是l制造蓄电池、电缆、子弹和弹药的原材料，
+    //铅是制造蓄电池、电缆、子弹和弹药的原材料，
     //汽油的添加剂。
     //铅化合物用作颜料、玻璃、塑料和橡胶的原料。
     //由于金属铅具有优良的耐酸、碱腐蚀性能
@@ -34,21 +34,22 @@
      //rks.vlsch
      //aztk.asn_zh^m.asn_ch_r^c
      今[一人石]
-     //Its~Aixs:Itxs:Inchs:Bwshs:Entxchys
-     //jlx.jls_zh.els
-     十龙(舍)陇 飞切风 引齐丝//拨 六比七 卡了及 齐了习 ~卷龙引
-     //Abrs.Slaws:Lon g,Slaf:A*L
-     //ch.tx.fs  W.euo.AA
-     ^金石为开:来,柯
-     木(七,十,切)
+			//its~aixs:itxs:inchs:bwshs:entxchys
+			//jxs.jls_zh.els
+			水龙(舍)陇 飞切风 引齐丝 //铂  卡了七 六比七~卷龙引
+			
+     //abrs.slaws:long,slaf:a*l
+     //ch.tx.fs  w.euo.aa
+			金石为开:来,柯
+			木(七,十,切)
 
-    //Rastera\intellyer\rishery.html
-    //rastera\Kerlis\seykast.html
+			//rastera\intellyer\rishery.html
+			//rastera\kerlis\seykast.html
       丫牙与纤 // 车 轻齐丝 流广风 汇水谁 刘一飞
-      七千 
-     申体礼行-冷
+      七千
+     申体礼行:冷
     英忑里尔:行:人类身体.虚空.空间拖拽
-  铅众.动静
+  铅众.夫重
 
 夫来的.艾丝忑:萨尔瑞复特.阿斯克:辐斯柯
 
@@ -56,17 +57,16 @@
 //circles-rectick.html
 芮夫忐
   手人加谷元
-  艾忐拨丝 //atbs.rysh_an.inszhkt
+  艾忐拨丝
     汗地、轮制、模塑
 
     施釉或彩绘
   爱他摸似
 
-  开凹兹 米次柯
+  开凹兹 米次柯 //火
 
-  土  陶 粘
+  土 陶 粘
   //abrz.slaw_f nl^v
-  //brz_on
   //青铜皮
   石 瓷
 

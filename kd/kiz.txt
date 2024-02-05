@@ -1,15 +1,16 @@
-﻿kiz.krs//hsk3.mth
-	skr.itk //cnr.mrs kl.ank.trs.brt
-	rks//rkb
-	rsk//rbk
-kri:ltl
+﻿kiz.knk:knt
 
-kiz:knk
-kiz.knt.ksk //msk
+kast:knt
+kaz
+	tvn
+		knv
+		knu
+		kun
+		
+		//kit
+	kvt
+kez:tlz
 
-//kaz
-//	ken.kenk
-//	tlk^z:kez
-//	vek^n
-//	wenk:kmtx
-//kast.tak.lnt
+//msk.kast
+//kri:ltl
+//hsk3.rth

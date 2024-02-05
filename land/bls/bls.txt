@@ -1,8 +1,8 @@
 ﻿krs.trs^l
 
 brs:l
-	txh
 	ext
+	txh
 
 	x //zn
 kct:rcs

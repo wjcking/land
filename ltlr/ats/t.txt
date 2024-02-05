@@ -1,11 +1,7 @@
-﻿iank
-ist:t:i
-tsn.ltls.mst
-iank.s
-ltlrs
+﻿ist:t:i
 
 s.t
 si.t
 
 t.i
-t.a
+t:a

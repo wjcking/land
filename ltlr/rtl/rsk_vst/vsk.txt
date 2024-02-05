@@ -1,12 +1,4 @@
-﻿vts:fks.rks.lks.aks:arts:asn_th
-vst_ln$szh_gy
-  vns:zhk_ln^dr
-  vzh^s
-  vch^s //vistral.vickal
-    mzh^s_n_eu
-    vzh^s_a_ou
-  lchn_v
-  vch^s_an
-    vms
-vsk.nak
- 
+﻿vst.pst.flt.dlz
+vns:vms
+vtx
+lck

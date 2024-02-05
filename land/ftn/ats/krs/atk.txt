@@ -13,7 +13,7 @@ tks
 
 //向节:克边:丁 铯东
 kts
-ktz_e: //tlz kls
+ktz //tlz kls
 
 //交叉
 kts.kmtx

@@ -5,7 +5,8 @@ knt.tlk.dls
 //ktld
 //kdks klsk
 //nk.lan
-//slk.kkd:ktn //SLS^ESH sd_a
+//SLS^ESH sd_a
+//slk.kkd:ktn
 //kast.kaz
 
 kdrz:kdz.rls

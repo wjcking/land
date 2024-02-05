@@ -3,8 +3,8 @@ rkb.abt
 
 lnt.chk
   tnd.knd //sft
-      chf^s:lnch^k
-      gls_j_zh
+		chf^s:lnch^k
+		gls_j_zh
   sld.nke
 
  //lsnshal essential
