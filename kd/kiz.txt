@@ -8,7 +8,8 @@ kiz:knk
 kiz.knt.ksk //msk
 
 //kaz
-//	ken:kenk
+//	ken.kenk
 //	tlk^z:kez
-//	kast.tak.lnt
-//kmtx
+//	vek^n
+//	wenk:kmtx
+//kast.tak.lnt

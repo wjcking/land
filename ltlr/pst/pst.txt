@@ -1,5 +1,5 @@
 ﻿/*
- *相同:帕斯卡.大气铀电 压强 Delphi Pascal
+*相同:帕斯卡.大气铀电 压强 Delphi Pascal
 */ 
 pst^ao
 krx.drf.psk.jxs.annl^t.jls^t
@@ -39,11 +39,11 @@ vst.w
 
 knt.kns
 knt^i:mth
-
 knt_e
+
 knt^an
 knt^ao_ln
-glb.knt //ats.lnt.mkr-glb:rpt
+glb^wo:wkd //ats.lnt.mkr-glb:rpt
 /******/
 数量-重复
   个数

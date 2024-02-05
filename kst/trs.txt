@@ -1,7 +1,7 @@
-﻿rts
-rst	
-//trx
+﻿tsn:itr
+rts
 rst.i.l
+//trx
 
 //tls
 //tis.ink.lk.in

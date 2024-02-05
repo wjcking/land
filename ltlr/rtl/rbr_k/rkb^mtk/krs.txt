@@ -1,6 +1,6 @@
 ﻿lank.krlst^c
 
-//Fernando信息素
+//Fernando 信息素
 // flz.fsk    
 //tnl.anl
 ars.abrs:aks.ats.sks

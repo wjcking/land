@@ -15,13 +15,14 @@ irs
 		kld
 	gls.its
 brs
-	
+
+irs.brs
 jxs.lnt.gts.ats
 	
-kst.kvt
+kvt.kst
 	wt_h.ml^s
 	vls:vts
-	kvn:kuv:kvt.tkn
+	kvn:kuv:kvt.ktn
 kzt.kts
 
 mwz:kaz:knk

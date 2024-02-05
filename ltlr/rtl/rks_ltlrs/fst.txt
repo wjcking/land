@@ -9,4 +9,4 @@ trk.krt:flt
 
 fst:tfs
 rth:rkb.blk.iank
-mth:kbt.abs.k
+mth:kbt //abs.k

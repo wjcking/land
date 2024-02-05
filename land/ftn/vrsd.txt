@@ -15,7 +15,7 @@ gls
 	//thailand
     
 	knm
-		klm^w.ea
-		khm.er
+		klm
+		//khm.er
 	kax.eou
 gls.al

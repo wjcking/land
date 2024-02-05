@@ -1,4 +1,4 @@
-kns.krd.knt
+kns.krt.knt:krd
 ktr:kdr
 	trk:tsk
 		kit

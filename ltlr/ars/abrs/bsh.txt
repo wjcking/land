@@ -3,8 +3,8 @@
 rbr.sls
 //rcs^l.atb
 //贴边.对接
-brs 
-	//	lxa	bls_ao //中牙
+brs
+	//lxa	bls_ao //中牙
 	//贴边.边定角
 	lts^ruw.vts //ae w o
 
@@ -21,6 +21,6 @@ bls
 
 bst.nks.mch^st
 artzk
-//hlgt.args
-btlck^s
+	//hlgt.args
+	btlck^s
 bzklk

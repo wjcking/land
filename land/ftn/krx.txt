@@ -6,15 +6,15 @@ krt
 	//krt^ar.ibt.rt:kdr
 r.ist.tx.k
 
+//r:rl.air
 krx.krk
-krl_e
+ksl:krl_e
 	r.ist.ln
 	b.lck//ict.ln
 	f.rsk//trx
 krt_e
 
-//r:rl.air
-krx
+krt.k
 	axs
 	fls
 	lnt

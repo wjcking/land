@@ -1,21 +1,21 @@
 ﻿trs.chf.hrs
 tlz.lks
 
-//katzk
-//kzl.tsl^e.astk
-kaz.tlk.d //tls^i	stk.txh
-ink.lk.in //tis_ln_vsd
-klk.bz.lnt.dtx
-kld
-
 //栈转:上 土 丁 核心 迁引 磁 浮 推进
 //https://en.wikipedia.org/wiki/Black_hole
-vck //adv sunlask
-gts.mtk.ay
-
-fks.tlz.nks.mgt:ndz
+fks.tlz
+	//katzk
+	//kzl.tsl^e.astk
+	kaz.tlk.d //tls^i	stk.txh
+	ink.lk.in //tls^i vzd
+	klk^bz.lnt.dtx
+		nks.ndz.gts^w
+		lsk^n.vzd:fsd//dfm deform 
+		kkt.an//spacetime
+		
+		vck //adv sunlask
+		gts.mtk.ay
+	kld
 tfs.fst.lnt
-lsk^n.vzd.fsd//dfm deform 
-kkt.an:knt^r:kmr.tsh^l //spacetime
 
 	

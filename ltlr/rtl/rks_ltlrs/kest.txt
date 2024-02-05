@@ -18,7 +18,7 @@ nsk:kls_wo:lwsk.ldnk.skr:hlak_aln
 * 来拉乐 的里克
 */
 trs.ats
-rsh:rsk.wck.snk
+rsh:rsk.wck
 axs^txh
   eon:ion.adversa//元
       ayeran
@@ -31,16 +31,14 @@ axs^txh
   //gts.atr.hts^th.aps.d:lalnhat3
 ank^ago
 
-//凯乐斯科 凯德斯克
-//维赛德 海力 凯特
 kdks.klsk.hlkt.skr^ary
-  mkr.gry //Grey
-  vns^na //Brown and grey.
+  mkr //Grey
+  vns //Brown and grey.
   ech^s  //Blue, brown green and white.
   mrs //Red, brown and tan.
-  pit.j  //Brown, orange and tan, with white cloud stripes.
+  plt.j  //Brown, orange and tan, with white cloud stripes.
   tun^s  //Golden, brown, and blue-grey.
   vls_uw //Blue-green
   ptu^n //Blue.
   plt^ou 
-vsd.annk^n.lts^w
+kts.vsd.annk^n.lts^w

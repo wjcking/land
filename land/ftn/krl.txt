@@ -1,20 +1,10 @@
-﻿aks.skr^s
-
-jxs
-j
-	v.y
-	x
-l
-krl.bsk_ol
-	jxs.ats
-  kbt:pd.ftn
-	
-  lks
-    skr:krd^ktr_d
-  fks //fnc.fst
-
+﻿krl.bsk_ol
+	jxs.ats //aks.skr^s
   rxs
-  lks.r
-
+  lks:rks^x
+  fks //fnc.fst
+	krs:klz^r
   trs^gts.tls
+	
+  kbt:pd.ftn
 brs^a

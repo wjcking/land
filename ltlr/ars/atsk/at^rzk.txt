@@ -6,7 +6,7 @@ tx:q.ao
 	zh
 	//rns
 	th
-tv:l.tx	//lvch ln7s
+tv:l	//lvch ln7s
 
 位塞(铯)忑 
   开出扯^差^卡^折 //kai  chu che cha

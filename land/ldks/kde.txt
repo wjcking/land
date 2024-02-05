@@ -3,19 +3,19 @@
 knt.tlk.dls
 
 //ktld
-//klsd
+//kdks klsk
 //nk.lan
-//slk.kkd:tkn //SLS^ESH sd_a
+//slk.kkd:ktn //SLS^ESH sd_a
 //kast.kaz
 
 kdrz:kdz.rls
-	msk.vts
+	msk.vst
 	
 	//mts.txh:3.14:1 
-	knk.hnlx.vst
-	khk.gts^hm.kzt.txh
+	knk //hnlx.vst
+	khk.gst^hm.kzt.txh
 	
-	mkr.wks.mel
+	mkr.vks.mel
 land
 
 
