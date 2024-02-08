@@ -1,5 +1,10 @@
 ﻿kzt:kb_nr
 
+//kzt.c.lnt
+//tzk^e.s.its.ch
+//tsk^e.cz.lnt.ch
+//tks^e.z.its.th
+//tks^i.zh.gts
 kzr
 	krkz //krlt
 	

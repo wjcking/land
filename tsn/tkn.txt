@@ -1,16 +1,8 @@
 lank.ist.s
-s.k
-t
-	stk //skt.kts
-	skr.itr-kl
-r
-
-//kd
-skr.krs.kns
-kns.knt //tnk.kast
+stk //skr.itr-kl	skt
 
 //gts
 stk.tks.nks
-tkn
-knt
-ktn
+ 
+tkn.kns	//tnk.kast
+ktn:kts	//stk.tsk:tsn

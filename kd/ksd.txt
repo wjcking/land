@@ -11,8 +11,8 @@ lsd
 
 	irk
 
-  kiz //kaz
-	kfs //kfn:fnk:afk
+  kiz //kast kaz
+	kfs //krf:fenk:afk
 	
   kunz //mwz:knk
 trs.bls

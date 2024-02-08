@@ -1,9 +1,7 @@
 ﻿ksn
 
 kst
-	trs
-	//b.l.f:x
+	trx
+	//b.l.f
 	krs
-	lks
-	fks 
 bsk	

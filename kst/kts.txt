@@ -1,20 +1,11 @@
-﻿kde
-kts.kdz:stk.tks
-
-//kzt.c.lnt
-//tzk^e.s.its.ch
-//tsk^e.z.lnt.ch
-//tks^e.z.its.th
-//tks^i.zh.gts
-
-ist.k.trk:tkn
+﻿ist.k.trk:tkn
 //dns:ats.k.ktn
 //dns.kzn:pst
-its.k.int.knt//kth.thk:dth
+its.k.int.knt
 kvt
 	u.n
 	n.u
-kt.i:vst //kt^v lnt.x tv h
+kt.i:vst //kt^v int.x tv h
 
 ksn
 	kit:kvt

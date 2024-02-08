@@ -1,6 +1,6 @@
 ﻿ksn.lst
 ist.iank.tsn
-trx:trs.tls//bls^txc
+trx:trs.tls //bls^txc
 trk //brk:kdz:kfs
 
 fsn.ksn

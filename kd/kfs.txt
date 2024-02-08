@@ -1,10 +1,6 @@
-﻿kst:kfs
+﻿kns.krt //ifd
 
-krs:fks 
-kns.itf
-kns.kst^k:kfs //ea
-
-//nk.lan:annk:kat_e^d:al
-//lnt_kt_c
+kfs:krs:krf
 fenk
-afd
+fd //itf:a.an
+fant

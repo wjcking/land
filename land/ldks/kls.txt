@@ -12,35 +12,8 @@
 kls
 	lds.lank:dls
 	nk.lan
-	sls.swr:mkr
+	sls.mkr //smr
 	krl.rtl
 	mch.lnt.tfs
 	klt.lts
 lsk
-
-kls_wo.ltlr.knr_wo.kad
-  //b.sak.d
-  //sad.sk
-  dar
-    adls^d:vrsk
-    dak.kl_aye.rck.slk_wo
-  dsn^a
-	dnk.abs
-
-  hlk.lnt//htk.wmz.kht.blsgn
-ats
-      
-//trace.html
-//Rastera\intellyer\rikes.html
-//Rastera\intellyer\rystera.html
-kld:bst
-	atz.s //tas^n
-  wsk.zc
-  lwsk.wks
-  
-  //dns krx
-  kls_wo:ats_m.atrzk
-    atk_ao_m:hzt:fld_rxs
-    ats_m.flr_y
-  msk_en
-klt

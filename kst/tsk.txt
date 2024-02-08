@@ -8,13 +8,8 @@ t:s.i
 ist
 
 trs.itr:tsk
-//kd.trs.bls
-//abs.skr
-//hrs.ank
-trs.krs^x.its
-
-trk.krt.knt //ksk.kmt
-//itr.tsn.rns.stk
+trk.krt.knt //kmt
+//itr.stk
 trk
   krt
 	ktr

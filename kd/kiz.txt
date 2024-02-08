@@ -5,12 +5,7 @@ kaz
 	tvn
 		knv
 		knu
+		kit
 		kun
-		
-		//kit
 	kvt
 kez:tlz
-
-//msk.kast
-//kri:ltl
-//hsk3.rth
