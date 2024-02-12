@@ -8,7 +8,7 @@
 *		muscular
 *	
 *		fks
-*			integumentary, skin, hair,  nails, among other areas皮肤
+*			integumentary, skin, hair,  nails皮肤
 *
 *atsk.txh
 *		skeletal

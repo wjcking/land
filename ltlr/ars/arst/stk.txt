@@ -1,21 +1,21 @@
 ﻿iank-s
 ist.k:stk
 
-t
-	trt:itr //itz
-		//knk^t.kmt
-	trs.k
+trs.trk
 
-	trk
-		ksk:l //ft.fk
-	krk.i
-	
-	ksk^c
-		trt
-		tut
-		tuk^luk
-		rst:kst
-	kri.l
-r
+//trt:itr 
+//itz
+//knk^t.kmt
+
+ksk:l //ft.fk
+krk.i
+
+ksk^c
+	trt
+	tut
+	tuk^luk
+	rst:kst
+kri.l
+
 
 //astk.d

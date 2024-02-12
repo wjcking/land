@@ -1,18 +1,7 @@
-﻿itlrs.tls_wo.kpt_un_non
-klst_or.rtn
-  ldx
-  krlt
+﻿rkb
+kpt
+ldx
+krlt
   
-  rbd.msh
-  rkb
-
-  lsls
-  abs.k
- fsh.lks
-
-vbs.ftn.lks
-
-klsd_en.klz_a
- tsh_enks
- klz_lao.krs^r
-pd_an
+pd
+fsh

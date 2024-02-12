@@ -1,9 +1,0 @@
-﻿kst.krs.kns //tns
-kst:kct:k.ist.c//k.itls.bst
-kst:tsk.itr.skr.n//rk lk lnk
-kst.kns:tsk.its.knt
-
-kns:tns:tsn
-kst.tsk.bst
-kns.kst
-knt.tsk

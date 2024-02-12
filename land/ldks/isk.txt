@@ -3,7 +3,7 @@ kri.tsn
 
 ats.at^n.hxs
 rtl.atl.r
-ftn.fsh:rsta
+ftn.fx^s:rsta
 
 abt.tbk.tkn
 

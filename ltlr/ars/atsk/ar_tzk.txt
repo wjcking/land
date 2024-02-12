@@ -1,5 +1,5 @@
 ﻿rtl.atv
-	asn.k
+	asnk
 	kls.btf.klh
 	klh_l:r h g e  k //art	
 tzh

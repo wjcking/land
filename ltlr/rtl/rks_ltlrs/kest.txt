@@ -9,7 +9,7 @@
 *Ayelament
 *element.html
 */
-nsk:kls_wo:lwsk.ldnk.skr:hlak_aln
+nsk:lwsk.hlk
 
 /*
 *人类时间.时刻角度:地质年代共分为六个时间单位

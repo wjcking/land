@@ -11,7 +11,7 @@ irs
 	grs.ist
 		blg:plg.ew
 		glt.an:d
-			glb:blg //rpt
+		//glb:blg	 rpt
 		kld
 	gls.its
 brs

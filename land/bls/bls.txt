@@ -4,7 +4,7 @@ brs:l
 	ext
 	txh
 
-	x //zn
+	x
 kct:rcs
 
 vst.rst
