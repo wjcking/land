@@ -20,14 +20,14 @@
     圆规：中心点转画
     计算机：正方形缩小统计
   角度：人类 接近角最小给定数或符号
-  弧度：百度 角度转弧度 π/180×角度;弧度变角度 180/π×弧度。 角度是用以量度角的单位,符号为° PI3.14 
+  弧度：百度 角度转弧度 π/180×角度;弧度变角度 180/π×弧度。 角度是用以量度角的单位,符号为° pi3.14 
     封闭起来测量 
 
 维克里 锂面 边维 
 内部不空 就是一个钲钫点   人类角度用笔度以下 可以看作是一个正方形没中空
   正  正正  
         正正
-  维克里.空 // heng shui born ？ Dragged dig in
+  维克里.空 // heng shui born ？ dragged dig in
     度四个点 手从左到右 在上或下
   正正正 正正正
   正   正  正正正
@@ -40,8 +40,8 @@
 
 
 /*
-*Intkerick Aykesiz
-*Wiker Wikery Wikedor Wyliske
+*intkerick aykesiz
+*wiker wikery wikedor wyliske
 */
 维克里.克恩特.称位.取分
   一 钫克
@@ -69,9 +69,9 @@
 维克多 //克特 维克多 向量  维里斯克 //四
 
 /*
-*Entrike
-*Rayberk
-*Rastera\accentural\arytezk.html
+*entrike
+*rayberk
+*rastera\accentural\arytezk.html
 */
 英特.克恩特.瑞博尔克.称位(维赛特--索莱克)塞克 //塞得
   钫克 一  王 万 //个
@@ -92,12 +92,12 @@
   //link
   里可.立面 以边
 
-  他斯克:边维.侧//Intrike.Task.Axis
+  他斯克:边维.侧//intrike.task.axis
     丝克.克斯  
     他司.斯特  
     他里
     立斯它
-  丝位克.铯克斯 //Svk Tks Sks KsteKist Kesset
-  //Lint
+  丝位克.铯克斯 //svk tks sks kstekist kesset
+  //lint
   里他:里面.边维
 赛特.萨得
