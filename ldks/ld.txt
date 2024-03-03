@@ -9,8 +9,8 @@ land:irk.ilk.lank
 
 irs
 	grs.ist
-		blg:plg.ew
-		glt.an:d
+		blg:plg^ew
+		glt^an
 		//glb:blg	 rpt
 		kld
 	gls.its
@@ -20,12 +20,13 @@ irs.brs
 jxs.lnt.gts.ats
 	
 kvt.kst
-	wt_h.ml^s
-	vls:vts
 	kvn:kuv:kvt.ktn
+
+	vls:vts
+	wt_h.ml^s
 kzt.kts
 
-mwz:kaz:knk
+kaz:knk:mwz
 ats
 	ld.nk
 	nk.lan
