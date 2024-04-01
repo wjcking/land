@@ -8,8 +8,8 @@ tsm
     fn:fx
     ft
     fc^k
-    //lif
-    fl^t.al:flc.an:flk.an.w
+    //lif hnlx
+    flt^al:flc.lan:flk^an
   hbe:nm
 
 	dsn.mds

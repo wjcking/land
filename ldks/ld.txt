@@ -32,10 +32,10 @@ ats
 	nk.lan
 lnt
 
-mst
-msk.ksk.kmt
-mks
+knt^m.kst
+mst:msk //mks
+mts //jts ets nts
 
-lts_w.gts:nks
+lts_w:gts:nks
 ltl.tls^z.lnt
 lks.krs:axs
