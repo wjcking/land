@@ -38,4 +38,4 @@ mts //jts ets nts
 
 lts_w:gts:nks
 ltl.tls^z.lnt
-lks.krs:axs
+lks.krs:ixs //axs^tv
