@@ -13,7 +13,7 @@ ank
 //klk.an
 //hlk.ln
 //brk:flt
-ank	//knt_ao:mts.flc
+kat	//knt_ao:mts.flc
 	cna:kna:knr^c_ao//测纳  钝切力 切折
 	cr:rk:zk//锐 测力 芮
 	
