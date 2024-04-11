@@ -1,1 +1,2 @@
 bst:isk
+dst.dsn //dsm.mds
