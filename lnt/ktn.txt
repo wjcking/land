@@ -1,10 +1,9 @@
 ﻿//KarMiks Karrect.Textural.StringStart.Kamit
 //ImeInput 
 hbt.rkb.hand
-
 vrsd //WsyreckUtizual CarowletDifference
 
-//RequireLong.SnickTimes
+//SnickTimes
 //time.adversed
 lkt.tam^i.atb
 

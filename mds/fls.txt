@@ -9,7 +9,7 @@ fls
   lc^n:sk^dr
   lt.aut //o
   lk.an
-hbe
+lif
 
 //立 体 边
 tab.ary

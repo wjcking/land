@@ -2,12 +2,12 @@
 
 knt.tlk.dls
 
-//ktld
-//kdks klsk
-//nk.lan
-//sls^esh sd_a
-//slk.kkd:ktn
-//kast.kaz
+//KTLD
+//KDKS KLSK
+//NK.LAN
+//SLS^ESH SD_A
+//SLK.KKD:KTN
+//KAST.KAZ
 
 kdrz:kdz.rls
 	msk.vst

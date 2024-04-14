@@ -4,13 +4,13 @@
 */
 tsn
 tsm
-  fsn:ltl.tsh^x
-    fn:fx
-    ft
-    fc^k
-    //lif hnlx
-    flt^al:flc.lan:flk^an
-  hbl
+  fsn
+    //fn:fx
+    //lif hnlx hbl tsh^x
+    flt^al
+		flc.lan
+		flk^an
+  fst
 
 	dsn.mds
 	//mlk^wo
