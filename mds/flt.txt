@@ -4,11 +4,7 @@
 *	边 立,方 礼 (体)
 *康科的 多维
 */
-fls
-  lt.tak //tsl.tas
-  lc^n:sk^dr
-  lt.aut //o
-  lk.an
+flt	//tsl
 lif
 
 //立 体 边
