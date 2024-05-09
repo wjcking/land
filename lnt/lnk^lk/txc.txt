@@ -1,4 +1,4 @@
-﻿dns.ftn.fsn //dnc.fnc.tin
+﻿fsn.ftn.dns //dnc.fnc.tin
 enk
 	kne //锐
 	xz:kna//钝次 knr^c_ao
@@ -7,12 +7,12 @@ enk
 	//类人三 及不吐 不互木
 	//txh.rcs
 	//vkt.kst.rzk
-	tch^y:txch
+	tch:txch
 ank
 
 //knt_ao:mts.flc
 kat	
-	cna:dnc://  钝切力 切折
+	cna:dnc://钝切力 切折
 	cr:rk:zk//锐 测力 芮
 	
 	

@@ -11,7 +11,8 @@ irs
 	grs.ist
 		blg:plg^ew
 		glt^an
-		//glb:blg	 rpt
+		//glb:blg.luk kkb
+		//rpt nsk msk knd_e
 		kld
 	gls.its
 brs
@@ -36,6 +37,6 @@ knt^m.kst
 mst:msk //mks
 mts //jts ets nts
 
-lts_w:gts:nks
+lts_wo:gts:nks
 ltl.tls^z.lnt
 lks.krs:ixs //axs^tv
