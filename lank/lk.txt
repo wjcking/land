@@ -37,6 +37,6 @@ knt^m.kst
 mst:msk //mks
 mts //jts ets nts
 
-lts_wo:gts:nks
+lts_wo:gts:nks//ixs_TV
 ltl.tls^z.lnt
-lks.krs:ixs //axs^tv
+lks.krs:ixs //axs^Tv

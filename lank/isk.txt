@@ -1,9 +1,9 @@
 ﻿hrs.tri.skr//LED:RGB
 kri.tsn
 
-ats.at^n.hxs
-rtl.atl.r
-ftn.fx^s:rsta
+ats.atn.nts //ANT^i hxs
+rts.atl^r
+ftn.fxs^sh.TAS:rsta
 
 abt.tbk.tkn
 
