@@ -38,5 +38,5 @@ mst:msk //mks
 mts //jts ets nts
 
 lts_wo:gts:nks//ixs_TV
-ltl.tls^z.lnt
+tls^z:ltl.lnt
 lks.krs:ixs //axs^Tv
