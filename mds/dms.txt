@@ -7,9 +7,9 @@ tsm
   fsn
     //fn:fx
     //lif hnlx hbl tsh^x
-    flt^al
-		flc.lan
-		flk^an
+    //flt^al
+		//flc.lan
+		//flk^an
   fst
 
 	dsn.mds

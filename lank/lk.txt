@@ -9,8 +9,8 @@ land:irk.ilk.lank
 
 irs
 	grs.ist
-		blg:plg^ew
 		glt^an
+		//blg:plg^ew
 		//glb:blg.luk kkb
 		//rpt nsk msk knd_e
 		kld

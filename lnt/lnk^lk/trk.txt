@@ -7,4 +7,4 @@ txk //fenk
 int.flk.mik
 lik.fln.sik//lst
 
-gat:sak:flk:bik
+gat:sak:flk
