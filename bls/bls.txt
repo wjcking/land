@@ -1,10 +1,8 @@
 ﻿krs.trs^l
 
-brs:l
+brs^l
 	ext
-	txh
-
-	x
+	txh^X
 kct:rcs
 
 vst.rst

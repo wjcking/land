@@ -9,13 +9,14 @@ land:irk.ilk.lank
 
 irs
 	grs.ist
-		glt^an
-		//blg:plg^ew
-		//glb:blg.luk kkb
-		//rpt nsk msk knd_e
+		glt^an:hlk
+		//glb:blg.luk plg^e.tuk 
+		//blg^Aa:kkb
+		// nsk msk 
+		//knd_e
 		kld
-	gls.its
-brs
+	gls
+brs:its
 
 irs.brs
 jxs.lnt.gts.ats
