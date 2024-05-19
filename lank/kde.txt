@@ -8,14 +8,15 @@ knt.tlk.dls
 //SLS^ESH SD_A
 //SLK.KKD:KTN
 //KAST.KAZ
-
+//	GST.VST.IST^C
+//KKD:KNT
 kdrz:kdz.rls
 	msk.vst
 	
 	//mts.txh:3.14:1 
 	knk //hnlx.vst
-	khk.gst^hm.kzt.txh
-	
+	//khk.gst^hm.kzt.txh
+
 	mkr.vks.mel
 land
 
