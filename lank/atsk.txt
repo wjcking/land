@@ -2,7 +2,7 @@
 
 ats.atn.nts //ANT^i hxs
 rts.atl^r
-ftn.fxs.fsh //TAS:RSTA
+ftn.fxs.fsh //TAS:RSTA tlf.DIFUSHN
 
 abt.tbk.tkn
 
