@@ -1,7 +1,7 @@
 ﻿kst:tsk
 kat
 
-txk //fenk
+//txk fenk
 //tln
 
 int.flk.mik
