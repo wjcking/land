@@ -1,4 +1,4 @@
-﻿fsn.ftn.dns //dnc.fnc.tin
+﻿fsn.ftn.rst^vd
 enk
 	ken^e //锐
 	xz:kna//钝次 knr^c_ao
@@ -14,7 +14,6 @@ ank
 kat	
 	cna:dnc://钝切力 切折
 	cr:rk:zk//锐 测力 芮
-	
 	
 	cl:tk//特 直 
 end
