@@ -1,8 +1,8 @@
 ﻿fsn.ftn.rst^vd
 enk
-	ken^e //锐
-	xz:kna//钝次 knr^c_ao
-	
+	ken^e //芮 锐
+	//钝次 knr^c_ao
+	xz:kna
 	//直 世 池
 	//类人三 及不吐 不互木
 	//txh.rcs
@@ -11,9 +11,11 @@ enk
 ank
 
 //knt_ao:mts.flc
-kat	
-	cna:dnc://钝切力 切折
+kat
+	//钝切力 切折
+	cna:dnc:
+
 	cr:rk:zk//锐 测力 芮
-	
-	cl:tk//特 直 
+	//特 直 
+	cl:tk
 end

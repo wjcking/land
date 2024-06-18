@@ -3,7 +3,7 @@
 *面 立 
 *面 方 力 (体)
 */
-fln.c
+flc
   mit:snt //sld^a
   mik.ary
 flk

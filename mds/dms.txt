@@ -5,11 +5,12 @@
 tsn
 tsm
   fsn
-    //fn:fx
-    //lif hnlx hbl tsh^x
-    //flt^al
+    //ftn:fxs lif hnlx hbl tsh^x
+		//flz.len
 		//flc.lan
-		//flk^an
+
+		//flk^an_wu
+    //flt^al_wo
   fst
 
 	dsn.mds

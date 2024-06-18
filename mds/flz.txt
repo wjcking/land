@@ -4,7 +4,7 @@
 *	边 立,方 礼 (体)
 *康科的 多维
 */
-flt:tls.tlf
+flz:tls.tlf~fst
 lif
 
 //立 体 边
