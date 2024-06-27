@@ -1,11 +1,14 @@
-﻿kde.kst
+﻿kd.kst
 rns.ftn.itls
 
-vrsk:rck.vsd
-vrsd.dls.vls
+//RSK^VD-VZS
+//VRSK:RCK.VSD
+//VRSD.DLS.VLS
+rsk.vst
 krls:kldr
 
-land:irk.ilk.lank
+iank-ilk~ARK //IRK
+lank~irk-ilk
 
 irs
 	grs.ist
@@ -25,13 +28,13 @@ kvt.kst
 	kvn:kuv:kvt.ktn
 
 	vls:vts
-	wt_h.ml^s
+	//wt_h.ml^s
 kzt.kts
 
-kaz:knk:mwz
+kaz:knk //mwz
 ats
-	ld.nk
-	nk.lan
+	srt:trs
+	//land nik~lan ld.nk 
 lnt
 
 knt^m.kst
@@ -40,4 +43,4 @@ mts //jts ets nts
 
 lts_wo:gts:nks//ixs_TV
 tls^z:ltl.lnt
-lks.krs:ixs //axs^Tv
+lks.krs:ixs //ats^X:axs^Tv

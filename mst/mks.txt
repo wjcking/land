@@ -18,8 +18,8 @@ brts.rft.vbs:7x 1t l Z Y
 krls:r.f.b
   krf3.knt^e
   klf4
-	mmz.j:kmtx
-	nnz.j:kmtx
+	mmz^j:kmtx
+	nnz^j:kmtx
 	mnz^lt:atz.lnt
 kmk^t
 ksl4^ale	//ktln4
