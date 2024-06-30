@@ -11,7 +11,7 @@ hzh.rsk_c.lsk_c:ltlr.adpz^t
 		rfsh_l.kln.shw_o
 		rsch.ear
 		rts //rtn
-	htv
+	hzv
 km^tx_put.dpt^msh //knr_mks
 
 brts_e^d.brs_e.hd_awr

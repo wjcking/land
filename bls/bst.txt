@@ -2,7 +2,7 @@
 lsd.bst
 
 vst.itb
-//abs^luk:sab.stu.tud
+//ABS^LUK:SAB.STU.TUD
 //krk
 //kld.an
 

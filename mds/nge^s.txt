@@ -8,11 +8,11 @@
 *多维 艾付思克
 */
 
-//面冗:一有及型:平工二和
-//fas_a^c^e
-//Fransis,Fwlanxs:Fwlaikes:Eilain
-flc.fr.xs^l //w
-  lif:hnk:mik
+//面冗:一有及型:平工和_二
+//FAS_A^C^E
+//FRANSIS,FWLANXS:FWLAIKES:EILAIN
+flc
+  lnf:hnk:mik
   flt:tak
     tif.lnt.hns
   flt.mts^l

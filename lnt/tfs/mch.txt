@@ -1,0 +1,36 @@
+﻿tfs //lank\ltlr\lnt_ch\
+trf
+ //UNDERGROUND,GROUND
+  wgs.dwf_a.hdz
+    gbl_n
+    gm_wo
+    unds_a^th
+  knm
+	
+  //合安 希恩:希尔 入内X于向 你
+  //BEYOND.LANGUAGE
+  //EARTH.SOLID.LANG.REQUIRE.ENTIREHUMAN.ACKNOWLEDGE  
+  h^n.arst.hxs.ftn  
+    TREANT
+    LYKENWAOF
+  r^s //Ground,Cities,UnderWater
+
+  //ANNL
+  //MOUNTAIN,GROUND,UNDERGROUND,UNDERWATER
+  prt_e^s 
+    EIF //L
+      ESSNS ARBORIL 
+      FAIRY //FURY FARY ADVERSRE
+    NINF //NYMPH^PHYSICALBODY
+    CENTAUR //PALADIN.FEZIKALBAODI
+    DURA:RILY //MERMAID
+  brt^r.skt.th.ch.pzs^a
+
+	//kls_w.rzh_lg
+	//trs.ats_m
+	sad.gzh.chf^s
+	gad_e.hlgt
+  //HST^GHO:GROUND,CITIES
+  gsk^ea:hrkt //GOTHET
+  gts
+tlf:mch_r.th

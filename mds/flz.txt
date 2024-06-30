@@ -5,7 +5,7 @@
 *康科的 多维
 */
 flz:tls.tlf~fst
-lif
+lnf-i
 
 //立 体 边
 tab.ary
