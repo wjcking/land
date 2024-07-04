@@ -13,10 +13,10 @@ fks_c.aks.jts.atr_ch
 ptk.krf_m
  
 /*
-*offset:compatible
-*  difference.contrast
-*  lost
-*keypoint
+*OFFSET:COMPATIBLE
+*  DIFFERENCE.CONTRAST
+*  LOST
+*KEYPOINT
 */
 idx.klr
 ltlr.tfs:arst:
