@@ -5,7 +5,7 @@ tfs.fst.lnt
 //https://en.wikipedia.org/wiki/Black_hole
 fks
 	//kzl.tsl^e.astk
-	kaz.tlk.d //tls^i	stk.txh
+	kaz.tlk^d //tls^i	stk.txh
 	ink.lk.in //tls^i vzd
 	klk.blz.lnt.dtx
 		nks.ndz.gts^w

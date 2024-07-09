@@ -11,9 +11,9 @@ iank-ilk~ARK //IRK
 lank~irk-ilk
 
 irs
-	grs.ist
+	grs.ist:krs
 		glt^an:hlk
-		//glb:blg.luk plg^e.tuk 
+		//glb_wo:blg.tuk:plg^e.luk 
 		//blg^Aa:kkb
 		// nsk msk 
 		//knd_e
