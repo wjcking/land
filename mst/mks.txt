@@ -13,7 +13,7 @@ kts.ltz.hlx^n
 
 //arst.atsk.msk
 kmtx
-mds.mlk.mgt
+//mds.mlk.mgt
 brts.rft.vbs:7x 1t l Z Y
 krls:r.f.b
   krf3.knt^e
