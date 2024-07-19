@@ -2,7 +2,7 @@
 
 brs^l
 	ext
-	txh^X
+	txk	//txh^X
 kct:rcs
 
 vst.rst

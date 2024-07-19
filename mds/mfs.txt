@@ -8,10 +8,9 @@ flc
   mik.ary
 flk
 
-f.ks
-  tim
-  mik
-l:tsh^kwo
+//立 面
+tim
+mik
 
 //人似内
 //	立面,方面 (体) 凯斯特 卡丝他 区分:平行面维 

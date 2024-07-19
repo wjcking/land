@@ -3,8 +3,8 @@
 hbt.rkb.hand
 vrsd //WsyreckUtizual CarowletDifference
 
-//SnickTimes
-//time.adversed
+//SNICKTIMES
+//TIME.ADVERSED
 lkt.tam^i.atb
 
 //EnglishLimited
@@ -12,9 +12,9 @@ rsk^vd:nks.vbs
 
 //AnalyticHindered
 //HistoryInternet.Collect
-bls.txh.etx:hzk
+bls.txk.etx:hzk
 
-//dkbt_ae
+//dkbt
 //Redraw
 isk.trs.rkb.ksk
 dpt.itlr
