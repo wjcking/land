@@ -34,7 +34,7 @@ kzt.kts
 kaz:knk //mwz
 ats
 	srt:trs
-	//land nik~lan ld.nk 
+	//land
 lnt
 
 knt^m.kst

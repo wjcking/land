@@ -20,7 +20,7 @@ ptk.krf_m
 */
 idx.klr
 ltlr.tfs:arst:
-pst.krs^f.knt_e.rtf^d//const_expr
+pst.krs^f.knt_e.rtf^d//CONST_EXPR
 
 pd.atz^w
 	kst^al 
