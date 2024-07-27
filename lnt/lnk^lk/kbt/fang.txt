@@ -12,15 +12,14 @@
 
   hd.rsk
   hrs.lnt.cht
-bts_er_d.lsk^c //Transplant
+bts_er_d.lsk^c //TRANSPLANT
 
 //truffle
 mfs_n.chf_wa_ou:
-fag
-  gus:tub
 fug
+fag
 
-//HandleStick
+//HANDOSDAK
 
 
 
