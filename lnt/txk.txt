@@ -7,7 +7,7 @@ enk
 	//类人三 及不吐 不互木
 	//txh.rcs
 	//vkt.kst.rzk
-	tch:txch
+	tek:txch
 ank
 
 //knt_ao:mts.flc
@@ -17,5 +17,5 @@ kat
 
 	cr:rk:zk//锐 测力 芮
 	//特 直 
-	cl:tk
+	cl:tek
 end

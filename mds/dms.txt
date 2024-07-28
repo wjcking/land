@@ -10,7 +10,7 @@ tsm
 		//flc.lan
 
 		//flk^an_wu
-    //flt^al_wo
+    //flt^al
   fst
 
 	dsn.mds

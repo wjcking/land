@@ -18,14 +18,6 @@ ptk.krf_m
 *  LOST
 *KEYPOINT
 */
-idx.klr
-ltlr.tfs:arst:
 pst.krs^f.knt_e.rtf^d//CONST_EXPR
-
-pd.atz^w
-	kst^al 
-	dtf
-	kbt
-	lst_ao
-ftn.lk.lnk.klt
+kbt
 
