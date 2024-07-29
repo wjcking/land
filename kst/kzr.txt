@@ -11,7 +11,7 @@ kzr
 	kzl.lsk	//lst.ksl
 	
 	kzlz.isls
-	kzl.sw^h
+	kzl.sw
 krs
 
 kts^z:ktz.c

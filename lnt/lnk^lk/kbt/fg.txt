@@ -14,10 +14,10 @@
   hrs.lnt.cht
 bts_er_d.lsk^c //TRANSPLANT
 
-//truffle
-//mfs_n.chf_wa_ou:
-//HLX^UN
-fang 
+//TRUFFLE
+mfs_n.chf_wa_ou
+fug
+fag
 
 //HANDOSDAK
 
