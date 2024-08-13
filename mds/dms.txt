@@ -5,7 +5,7 @@
 tsn
 tsm
   fsn
-    //ftn:fxs lif hnlx hbl tsh^x
+    //ftn:fxs lnf hlx hdl tsh^x
 		flz.len
 		//flc.lan:ets
 
