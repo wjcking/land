@@ -1,7 +1,7 @@
 ﻿krs.trs^l
 
 brs^l
-	ext //ILAICHIK FWT
+	ext //ILAIK CHANIK FWT
 	txk	//txh^X
 kct:rcs
 
