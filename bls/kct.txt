@@ -3,10 +3,8 @@ lank^c
 
 /*
 *keb.kab:ked.kad
-*kab:sake:bsk 
-*kst^il
 */
-kb_nr
+kb^nr
 
 //land.tls^w
 itlr:lank.trk

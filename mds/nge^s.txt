@@ -3,20 +3,22 @@
 *纳冗
 *平面基准:付丝克
 *内用或重量
-*立体体基 付似克
+*立体体基 付丝克
 *纳容,人中重量 
-*多维 艾付思克
+*多维 付似克^艾
 */
 
-//面冗:一有及型:平工和_二
-//FAS_A^C^E
-//FRANSIS,FWLANXS:FWLAIKES:EILAIN
-flc
+/*
+*面冗:一有及型:平工和_二
+*FAS:FLC
+*FRANSIS,FWLANXS
+*/
+flc:blk
   lnf:hnk:mik
-  flt:tak
-    tif.lnt.hns
-  flt.mts^l
-blk
+  flt:tsk
+	//HNS HRS FWLAIKES:EILAIN
+	trf 
+flz
 
 //立 体 基
 msk.knd

@@ -3,7 +3,7 @@
 *面 立 
 *面 方 力 (体)
 */
-flc
+flz
   mit:snt //sld^a
   mik.ary
 flk
@@ -15,8 +15,8 @@ mik
 //人似内
 //	立面,方面 (体) 凯斯特 卡丝他 区分:平行面维 
 //多维面
-ist.k.d:lnt:t.d
-mch.st.mdk
+ist^kd:lnt
+mdk //MCH.S
 knm
   
 mid
