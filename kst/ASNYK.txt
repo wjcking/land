@@ -22,10 +22,11 @@ LNWCK_ANG:ARST
 	ITLCK:BRLSK
 		IHTXLK.IGLX:RCK^M
 		//ltlr\rtl\rkb\rst_yera
-		//ARGS^AI
-		//	KRS^IK
-		//	GRS^A
-		//VGS^W
+		ARGS^AI
+			KRS^IK
+			GRS^A
+			VGS^W
+		AGZHS:TXH^K
 	//DBLSK
 	BZKLK
 	ASNK.AZTK
