@@ -1,12 +1,12 @@
-﻿trs.chf.hrs
+﻿trs.chf^fg
 tls.lks
-tfs.fst.lnt
-//栈转:上 土 丁 核心 迁引 磁 浮 推进
-//https://en.wikipedia.org/wiki/Black_hole
+tfs:lnt:fst
+//栈转:7 核心 迁引 磁 浮 推进 通信 传送
+//https://en.wikipedia.org/wiki/Wormhole
 fks
 	//kzl.tsl^e.astk
 	kaz.tlk^d //tls^i	stk.txh
-	ink.lk.in //tls^i vzd
+	lnk^d//tls^i vzd
 	klk.blz.lnt.dtx
 		nks.ndz.gts^w
 		lsk^n.vzd:fsd//DFM DEFORM 

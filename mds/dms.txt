@@ -5,12 +5,12 @@
 tsn
 tsm
   fsn
-    //ftn:fxs lnf hlx hdl tsh^x
-		flz.len
-		//flc.lan:ets
-
-		//flk^an_wu
-    //flt^al
+	//ftn:fxs lnf hlx hdl tsh^x
+	//flt^al
+	//flk^an_wu
+	//flc.lan:ets
+	flz.len
+	
   fst
 
 	dsn.mds
