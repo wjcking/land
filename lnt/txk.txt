@@ -1,4 +1,6 @@
-﻿fsn.ftn.rst^vd //VRSK VRSD
+﻿VRSK:VRSD
+
+fsn.ftn.rst^vd 
 enk
 	ken^e //芮 锐
 	//钝次 knr^c_ao
