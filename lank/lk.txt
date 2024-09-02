@@ -25,7 +25,7 @@ irs.brs
 jxs.lnt.gts.ats
 	
 kvt.kst
-	kvn:kuv:kvt.ktn //KTV
+	kvn:kuv:kvt.ktn //kt^v vst KTV
 
 	vls:vts
 	//wt_h.ml^s
