@@ -11,6 +11,7 @@
 *wif:Wireless
 *blt:Bluetooth
 */
+fang:tfs-brs.ext 
 dpt_r:kpt_an:hlkt:kb_an^g
   mbd //Mainboard
     ^pat //part
@@ -46,3 +47,4 @@ dpt_r:kpt_an:hlkt:kb_an^g
   pot
 dpt_ao
 
+//HANDOSDAK

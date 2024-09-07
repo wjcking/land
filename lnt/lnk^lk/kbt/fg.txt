@@ -1,4 +1,9 @@
-﻿rkb.ltlr.dkbt
+﻿//CHWAFO TRUFFLE
+mfs
+fug
+fang
+
+rkb.ltlr.dkbt
   ln.ktk_ant
     brk.lck
   lsa //lsn_ear_n
@@ -14,12 +19,6 @@
   hrs.lnt.cht
 bts_er_d.lsk^c //TRANSPLANT
 
-//TRUFFLE
-mfs_n.chf_wa_ou
-fug
-fag
-
-//HANDOSDAK
 
 
 

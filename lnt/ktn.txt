@@ -1,7 +1,7 @@
 ﻿//KarMiks Karrect.Textural.StringStart.Kamit
 //ImeInput 
 hbt.rkb.hand
-vrsd //WsyreckUtizual CarowletDifference
+vrst:vrsd //WsyreckUtizual CarowletDifference
 
 //SNICKTIMES
 //TIME.ADVERSED
@@ -12,9 +12,9 @@ rsk^vd:nks.vbs
 
 //AnalyticHindered
 //HistoryInternet.Collect
-bls.txk.etx:hzk
+//hzk.bls.ext:txk
 
 //dkbt
 //Redraw
-isk.trs.rkb.ksk
+isk.trs.rkb.kst
 dpt.itlr
