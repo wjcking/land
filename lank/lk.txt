@@ -12,11 +12,30 @@ lank~irk-ilk
 
 irs
 	grs.ist:krs
-		glt^an:hlk
-		//glb_wo:wkd:blg.tuk:plg^e.luk 
-		//blg^Aa:kkb
-		// nsk msk 
+		//glb_wo
+		//blg.tuk BWLUGI^J
+		//plg^e.luk PELIG
+		//blg^Aa:kkb BWLAGE
+		//wkd
+		//nsk msk
+		//
 		//knd_e
+		glt^an:hlk.lai LAIANGNIK
+		krs:srk^l^g
+			kls
+				kkb:gls^e:blg^Aa GELIS 
+				//skr^shwo:txh.luk
+				//srk.tuk:luk
+				//glb_wo^d
+				//
+				//	kal_s:ets
+				//xrk
+				//	krx xkr 
+				//srd.drs
+				//
+				sls
+			lsk
+			
 		kld
 	gls
 brs:its
