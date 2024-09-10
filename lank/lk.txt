@@ -10,8 +10,8 @@ krls:kldr
 iank-ilk~ARK //IRK
 lank~irk-ilk
 
-irs
-	grs.ist:krs
+irs:ist
+	grs:krs
 		//glb_wo
 		//blg.tuk BWLUGI^J
 		//plg^e.luk PELIG
@@ -23,16 +23,16 @@ irs
 		glt^an:hlk.lai LAIANGNIK
 		krs:srk^l^g
 			kls
-				kkb:gls^e:blg^Aa GELIS 
+				//kkb:gls^e:blg^Aa GELIS 
 				//skr^shwo:txh.luk
 				//srk.tuk:luk
 				//glb_wo^d
 				//
 				//	kal_s:ets
 				//xrk
-				//	krx xkr 
-				//srd.drs
-				//
+				//	xkr^s skr^s skr^shwo
+				//srd.drs^l
+				//krx
 				sls
 			lsk
 			
@@ -60,6 +60,6 @@ knt^m.kst
 mst:msk //mks
 mts //jts ets nts gts^sh
 
-lts_wo:nks:gts//ixs_TV
+lts_wo:nks:gts^sh//ixs_TV
 tls^z:ltl.lnt
 lks.krs:ixs //ats^X:axs^Tv

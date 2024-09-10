@@ -11,7 +11,7 @@
 /*
 *面冗:一有及型:平工和_二
 *FAS:FLC
-*FRANSIS:FWLANXS
+*FRANSIS:FWLANGXS
 */
 flc:blk
   lnf:hnk:mik
