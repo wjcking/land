@@ -1,9 +1,11 @@
 ﻿kd.kst
 rns.ftn.itls
 
-//RSK^VD-VZS
-//VRSK:RCK.VSD
-//VRSD.DLS.VLS
+RSK^VD-VZS
+VRSK:RCK.VSD
+VRSD.DLS.VLS
+KLD:LKN:LKE
+
 rsk.vst
 krls:kldr
 
