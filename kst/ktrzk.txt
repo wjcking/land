@@ -8,11 +8,11 @@ fks
 	kaz.tlk^d //tls^i	stk.txh
 	lnk^d//tls^i vzd
 	klk.blz.lnt.dtx
-		nks.ndz.gts^w
+		nks.ndz.gts^wts
 		lsk^n.vzd:fsd//DFM DEFORM 
-		kkt//SPACETIME
+		kkt^ang//SPACETIME
 		
-		mtk^ay:gts
+		mtk^ya:gts
 		vck //ADV SUNLASK
 	kld
 tlz

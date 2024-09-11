@@ -11,26 +11,27 @@ iank-ilk~ARK //IRK
 lank~irk-ilk
 
 irs:ist
-	grs:krs
+	grs:krs //ICT
 		//glb_wo
 		//blg.tuk BWLUGI^J
 		//plg^e.luk PELIG
 		//blg^Aa:kkb BWLAGE
-		//wkd
-		//nsk msk
-		//
+		//wkd^wo
+		//nsk
+		//msk
 		//knd_e
 		glt^an:hlk.lai LAIANGNIK
 		krs:srk^l^g
 			kls
 				//kkb:gls^e:blg^Aa GELIS 
-				//skr^shwo:txh.luk
+				//skr^se:nsk
+				//skr^shwo:txh.luk:tzh_ang^w
 				//srk.tuk:luk
 				//glb_wo^d
 				//
 				//	kal_s:ets
 				//xrk
-				//	xkr^s skr^s skr^shwo
+				//	xkr:ltz:lkn:lke
 				//srd.drs^l
 				//krx
 				sls
