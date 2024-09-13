@@ -1,14 +1,15 @@
-﻿//KarMiks Karrect.Textural.StringStart.Kamit
-//ImeInput 
-hbt.rkb.hand
-vrst:vrsd //WsyreckUtizual CarowletDifference
-
-//SNICKTIMES
-//TIME.ADVERSED
-lkt.tam^i.atb
-taim^tiam
-//EnglishLimited
+﻿//ENGLISHLIMITED
 rsk^vd:nks.vbs
+
+//KARMIKS KARRECT.TEXTURAL.STRINGSTART.KAMIT
+//IMEINPUT 
+//HBT.RKB.HAND
+//WSYRECKUTIZUAL CAROWLETDIFFERENCE
+vrst:vrsd
+
+//SNICKTIMES taim~TIAM rtl TIME$FLZ 
+//TIME.ADVERSED
+//lkt.tam^i.atb
 
 //AnalyticHindered
 //HistoryInternet.Collect
