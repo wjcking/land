@@ -54,6 +54,7 @@
 
 /*
 *lts_wo:lank
+*land\RAST\vst\RALI.txt
 */
 卡尔瑞特:克里得
 	//丝洛克.克立特.艾瑞克
