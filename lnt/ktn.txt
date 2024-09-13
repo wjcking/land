@@ -17,5 +17,5 @@ vrst:vrsd
 
 //dkbt
 //Redraw
-isk.trs.rkb.kst
-dpt.itlr
+//isk.trs.rkb.kst
+//dpt.itlr
