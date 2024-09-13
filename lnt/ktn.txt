@@ -8,7 +8,7 @@ rsk^vd:nks.vbs
 vrst:vrsd
 
 //SNICKTIMES taim~TIAM RTL TIME$FLZ 
-//TIME.ADVERSED$STOP
+//TIME.ADVERSED&STOP
 //lkt.tam^i.atb
 
 //AnalyticHindered
