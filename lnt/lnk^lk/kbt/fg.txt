@@ -8,7 +8,7 @@ rkb.ltlr.dkbt
     brk.lck
   lsa //lsn_ear_n
 
-  //NoseDragout
+  //NOSEDRAGOUT
   bk_i.nk_we.and_no 
     mtk^s.mdr
     fld.nk //slaw-spt_i
