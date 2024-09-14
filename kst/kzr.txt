@@ -14,7 +14,7 @@ kzr
 	kzl.sw
 krs
 
-kts^z:ktz.c
+kts^z:ktz^c
 //azt.k
 //asnk
 //echs^sh.lxa.itr

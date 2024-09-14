@@ -13,7 +13,10 @@ iank-ilk~ARK //IRK
 lank~irk-ilk
 
 irs:ist
-	grs:krs //ICT
+	grs:krs 
+	//ict.rtl:glb 
+		//glg lwg wnms
+		
 		//glb_wo
 		//blg.tuk BWLUGI^J
 		//plg^e.luk PELIG

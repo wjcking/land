@@ -21,7 +21,7 @@ flc:blk
 flz
 
 //立 体 基
-msk.knd
+msk:knd
 tag
 
 //卡科的
