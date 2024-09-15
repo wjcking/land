@@ -14,7 +14,7 @@ kts.ltz.hlx^n
 //arst.atsk.msk
 kmtx
 //mds.mlk
-brts.rft.vbs:7x 1t l Z Y
+brts.rft.vbs:7x 1t l; Z Y
 krls
   krf3.knt^e
   klf4

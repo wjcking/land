@@ -24,7 +24,7 @@ dpt_r:kpt_an:hlkt:kb_an^g
 
   //Mainboard.Aberis.Abeds.BaodeManinlys
   kln.lk_ln
-  int[bmd]pit
+  bmd:int.pit
   -cpu.pit:Centrual.Process.Unit
       jmp //lne_ln.dpk.vts
       pcl

@@ -1,0 +1,24 @@
+﻿/*
+*ltlr.brs SDAIDES
+*PSKF.FWT
+*/
+brts^d:
+  lnk^th
+  kln.pls_dr.ltlr
+  kr^tk_ea^l //KERIKET ADD
+
+    lck^g //KANG MWSAIK
+    rdf:chf_a //MAODIFAI
+
+    mlk_er
+  klt
+
+  bts
+		lst.atrzk
+  bds
+
+  ktn.rsk^t
+    //dlt^b
+    //rls_e
+  lck
+ltlr

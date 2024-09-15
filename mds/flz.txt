@@ -12,4 +12,4 @@ tab.ary
 //kl.trk.bts
 
 band.ary //bde
-dut^s.aut
+dwt^s.aot

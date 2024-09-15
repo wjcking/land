@@ -13,9 +13,9 @@
 */
 kls
 	lds.lank:dls
-	nk.lan
+
 	sls.mkr //smr
 	krl.rtl
 	mch.lnt.tfs
-	klt.lts
+	lks.klt
 lsk

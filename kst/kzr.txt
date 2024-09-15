@@ -11,10 +11,11 @@ kzr
 	kzl.lsk	//lst.ksl
 	
 	kzlz.isls
-	kzl.sw
+	kzl^sw
+
+	kts^z:ktz^c
 krs
 
-kts^z:ktz^c
 //azt.k
 //asnk
 //echs^sh.lxa.itr

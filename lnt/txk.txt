@@ -1,6 +1,6 @@
-﻿VRSK:VRSD
+﻿VRSK.VRSD
 
-fsn.ftn.rst^vd 
+fsn.ftn:rsk^vd
 enk
 	ken^e //芮 锐
 	//钝次 knr^c_ao
