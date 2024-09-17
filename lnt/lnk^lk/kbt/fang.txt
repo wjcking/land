@@ -3,7 +3,14 @@ mfs
 fug
 fang
 
+//MONIKA
+//HANDOSDAK
+//TRANSPLANT
 rkb.ltlr.dkbt
+	msk.kan.c
+	mnk.a:ftn.rds
+	kbt.tfs
+
   ln.ktk_ant
     brk.lck
   lsa //lsn_ear_n
@@ -17,7 +24,7 @@ rkb.ltlr.dkbt
 
   hd.rsk
   hrs.lnt.cht
-bts_er_d.lsk^c //TRANSPLANT
+bts_er_d.lsk^c 
 
 
 

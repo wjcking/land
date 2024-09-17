@@ -14,8 +14,4 @@ rsk.rsh
 bsk
 lck:ltl:isk
 
-//MONIKA
-msk.kan.c
-mnk.a:ftn.rds
-kbt.tfs
 

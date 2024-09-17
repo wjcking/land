@@ -47,5 +47,3 @@ dpt_r:kpt_an:hlkt:kb_an^g
 dpt_ao
 
 fang:tfs-brs.ext
-
-HANDOSDAK
