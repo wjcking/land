@@ -14,4 +14,4 @@ lck
 
 //vkr.axs
 //tak.krs.krk
-//txc
+//txk

@@ -13,7 +13,7 @@ iank-ilk~ARK //IRK
 lank~irk-ilk
 
 irs:ist
-	grs:krs 
+	krs^grs
 	//ict.rtl:glb 
 		//glg lwg wnms
 		
@@ -42,9 +42,9 @@ irs:ist
 				sls
 			lsk
 			
-		kld
+		<kld>
 	gls
-brs:its
+brs^lgd //$its
 
 irs.brs
 jxs.lnt.gts.ats
