@@ -1,7 +1,7 @@
 ﻿hrs.tri.skr//RGB isk:itls
 
 ats.atn.nts //ANT^i hxs
-rts.atl^r
+rts.atl^rzs
 ftn //ANT.FXS.FSH
 
 abt.tbk.tkn
