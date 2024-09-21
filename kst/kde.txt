@@ -10,7 +10,7 @@ knt.tlk.dls
 //KAST.KAZ
 //KKD:KNT
 
-//GST.VST.IST^C 3.14:1 
+//GST.VST.ICT 3.14:1 
 //KRI:FTN.FST
 //ANK.LDNK.SLS.K 
 //AND.LNAD.BSK
