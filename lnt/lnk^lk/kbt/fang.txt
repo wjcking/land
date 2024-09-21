@@ -4,23 +4,22 @@ fug
 fang
 
 //MONIKA
+//KANG MWSAIK
 //HANDOSDAK
 //TRANSPLANT
 rkb.ltlr.dkbt
-	msk.kan.c
-	mnk.a:ftn.rds
+	ftn.rds
 	kbt.tfs
 
   ln.ktk_ant
     brk.lck
   lsa //lsn_ear_n
 
-  //NOSEDRAGOUT
-  bk_i.nk_we.and_no 
-    mtk^s.mdr
-    fld.nk //slaw-spt_i
-		//mas_aou.sbk_p
-  nd_wou
+  //NOSE
+  BKE.NWOK
+    MTK^S.MDR
+    FLD.NK 
+  NWOD
 
   hd.rsk
   hrs.lnt.cht

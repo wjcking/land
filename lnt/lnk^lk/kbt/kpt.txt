@@ -2,7 +2,11 @@
 hzk
 
 MFS
-	JXS:ITLR:RSK^LSK
+	//SDAIDES:LCK
+	//SDAIDES:3
+	JXS
+	ITLR
+	RSK^LSK
 
   ktn.tsh:PRG^ANM:kzt//DKS_L_SH^X  
   kpt^a:kbt^c//DAR.RFT.SHFT.SFT_AO.LCK.KAMSK_N
