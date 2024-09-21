@@ -1,4 +1,4 @@
-﻿kzt:kb_nr
+﻿kzt:kb^nr
 
 //kzt.c.lnt
 //tzk^e.s.its.ch
