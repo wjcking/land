@@ -32,11 +32,15 @@ irs:ist
 				//skr^se:nsk
 				//skr^shwo:txh.luk:tzh_ang^w
 				//srk.tuk:luk
-				//glb_wo^d
+				//glb_wo^d	//^gld kkd
 				//
-				//	kal_s:ets
-				//xrk
+				//xrk$its
 				//	xkr:ltz:lkn:lke
+				//vgs^e:wgs^i1
+				//	gpr
+				//	gpd
+				//	gde
+				//	kal_es:ets
 				//srd.drs^l
 				//krx
 				sls
@@ -44,7 +48,7 @@ irs:ist
 			
 		<kld>
 	gls
-brs^lgd //$its
+brs
 
 irs.brs
 jxs.lnt.gts.ats
