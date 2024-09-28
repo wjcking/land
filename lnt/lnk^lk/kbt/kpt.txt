@@ -2,8 +2,8 @@
 hzk
 
 MFS
-	//SDAIDES:LCK
-	//SDAIDES:3
+	//KBT:LSK
+	//KBT:3
 	JXS
 	ITLR
 	RSK^LSK
