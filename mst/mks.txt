@@ -1,6 +1,6 @@
-﻿ats.mts.rks:alk
+﻿//NSK
 
-//t.tns.l
+//ats.mts.rks:alk
 //kt.kns.l:tk
 //tls_ln
 
@@ -12,9 +12,16 @@ wts:v:mls:h
 kts.ltz.hlx^n
 
 //arst.atsk.msk
-kmtx
 //mds.mlk
-brts.rft.vbs:7x 1t l; Z Y
+//vbs brts.rft 
+bkl
+	7x 1t l; Z Y
+	
+	lvx~lxr()
+	<tvx>
+rzh^k
+
+kmtx
 krls
   krf3.knt^e
   klf4
