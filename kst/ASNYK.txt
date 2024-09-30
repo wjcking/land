@@ -1,4 +1,10 @@
 ﻿/*
+*为人丝各:维芮丝的
+*隶格^乐卡_隶客^约 //GEN KEN
+*	林柯:来卡
+*	甘的:兰的
+*隶卡
+*
 *阿萨尼牙卡
 *来卬维次可
 *  丝卡
@@ -6,15 +12,9 @@
 *  此刻
 *  兹忑
 *(希芮柯:米兹丝)
-*艾萨你牙的:艾芮忑兹可
-*
-*为人丝各:维芮丝的
-*隶格^乐卡_隶客^约 //GEN KEN
-*	林柯:来卡
-*	甘的:兰的
-*隶卡
+*艾萨你牙的:艾忑米兹可
 */
-RST^VSD:VRSD^K
+RST^VSD:VRSD^K!
 ISANYK
 	(XRK:RCS)
 	ATRZK-ASNYK^AI:LNVCK_ANG
@@ -43,7 +43,7 @@ LNVCK_ANG:LANK
 ISANYD
 
 IST^K:AZT^ZH^M
-ISANYAD^I
+ISANYAD^IA
 	AZT^K
 	<TXK-RZK>
 	AITZK^Re:ISANIK^I
