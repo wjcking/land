@@ -4,7 +4,7 @@ knt.tlk.dls
 
 //KTLD 
 KANZD 
-	THUMB:8 10^2 
+	THUMB:8 10^2  //rkb.hand
 	TWO^TOP 
 	TOWKMK TOWKLK
 KZDT^Aa^N
