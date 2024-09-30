@@ -17,7 +17,7 @@ kts.ltz.hlx^n
 bkl
 	7x 1t l; Z Y
 	
-	lvx~lxr()
+	(lvx~lxr) //LVCH
 	<tvx>
 rzh^k
 
@@ -29,6 +29,6 @@ krls
 	nnz^j:kmtx
 	mnz^lt:atz.lnt
 kmk^t
-ksl4^ale	//ktln4
+ksl4^ale	//ktln4 KTL^NA
 kmt:kat_e^d
 
