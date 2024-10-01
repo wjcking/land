@@ -15,10 +15,10 @@ trf
     LYKENWAOF
   r^s //Ground,Cities,UnderWater
 
-  //ANNL
+  //ANNI
   //MOUNTAIN,GROUND,UNDERGROUND,UNDERWATER
-  prt_e^s 
-    EIF //L
+  prt^s //SPIRT
+    EIF
       ESSNS ARBORIL 
       FAIRY //FURY FARY ADVERSRE
     NINF //NYMPH^PHYSICALBODY
@@ -33,4 +33,4 @@ trf
   //HST^GHO:GROUND,CITIES
   gsk^ea:hrkt //GOTHET
   gts
-tlf:mch_r.th
+tlf:mch^r^th
