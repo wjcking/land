@@ -15,9 +15,9 @@ kts.ltz.hlx^n
 //mds.mlk
 //vbs brts.rft 
 bkl
-	7x 1t l; Z Y
+	7X 1T L; Z Y
 	
-	(lvx~lxr) //LVCH
+	(LVX~LXR) //LVCH
 	<tvx>
 rzh^k
 

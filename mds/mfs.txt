@@ -16,7 +16,7 @@ mik
 //	立面,方面 (体) 凯斯特 卡丝他 区分:平行面维 
 //多维面
 ist^kd:lnt
-mdk //MCH.S
+mdk //MCH^S
 knm
   
 mid

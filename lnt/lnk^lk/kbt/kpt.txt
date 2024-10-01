@@ -13,9 +13,9 @@ MFS
 	kbt^d.ltlrs
 
 	trs.ext//PRAOSAIS
-		tch //RICHVW
-		fsh//RIFRAISH
-		sch //RISECH
+		rch^t //RICHVW
+		fsh^ln//RIFRAISH
+		zch^n //RISECH
 		rtn // RITERN
 	brs
 KMTX.PUT:EXT //dpt^msh
