@@ -1,12 +1,13 @@
 ﻿kri:ftn.fst
 
 knt.tlk.dls
-
-//KTLD 
-KANZD 
+//KTLD
+KADERZ:KDR
+KANZD
 	THUMB:8 10^2  //rkb.hand
 	TWO^TOP 
 	TOWKMK TOWKLK
+	TWERTV^1QX
 KZDT^Aa^N
 //KDKS KLSK
 //NIKLAOI NIK~LAN
