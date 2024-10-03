@@ -30,17 +30,28 @@ kdrz:kdz.rls
 	mkr.vks.mel
 land
 
-//IANK//KTS
-//ksn
-//	kit:kvt
-//	kst~i:kiz //kast
-//	krs.kfs //rns blk fenk
-//kns.tks
 
-//dns:ats.k.ktn
-//dns.kzn:pst
-//its.k.int.knt
-//int.txv^h
+//LANK\kst\stk
+ksk^c
+krk.i
+itz
+
+trt 
+knk^t.kmt
+
+astk.d
+
+//IANK//KTS
+ksn
+	kit:kvt
+	kst~i:kiz //kast
+	krs.kfs //rns blk fenk
+kns.tks
+
+dns:ats.k.ktn
+dns.kzn:pst
+its.k.int.knt
+int.txv^h
 
 
 

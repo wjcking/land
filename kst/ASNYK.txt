@@ -1,9 +1,9 @@
 ﻿/*
 *为人丝各:维芮丝的
-*隶格^乐卡_隶客^约 //GEN KEN
-*	林柯:来卡
+*力客^约 //LIGN 
+*	隶柯:来卡
 *	甘的:兰的
-*隶卡
+*乐卡^林卡//LIKN
 *
 *阿萨尼牙卡
 *来卬维次可
@@ -16,7 +16,7 @@
 */
 RST^VSD:VRST^KLT!
 ISANYK
-	(XRK:RCS)
+	(XRK:RZS)
 	ATRZK-ASNYK^AI:LNVCK_ANG //ETS
 	IRITZK^RI^A
 	IRETZK^RE^A
@@ -24,23 +24,6 @@ ISANYK
 	//ISA.NYK^AI:ASA.NIYD:VKD^WO
 	//ASA.NYK^I^A__ASA.NIYD!
 ISANYAD
-
-LNVCK_ANG:LANK
-	BTLCK^S
-	ITLCK:BRLSK
-		IHTXLK.IGLX:RCK^M
-		//ltlr\rtl\rkb\rst_yera
-		ARGS^AI
-			KRS^IK
-			GRS^A
-			VGS^W
-		AGWZHIS:TXH^K
-	BEDLSK //DWBLSK
-	BZKLK
-	
-	<AZT^ZH^M>
-	AZTK:ISNK^A:IANK
-ISANYD
 
 IST^K:AZT^ZH^M
 ISANYAD^IA
@@ -60,5 +43,6 @@ ISANYAD^IA
 	*
 	*TRS:KTS
 	*/
-	(XREK:XRK^RE:RCS)
+	(XREK:XRK^RE:RZS)
+	(RCS:TRS)
 ATRZK
