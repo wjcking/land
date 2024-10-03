@@ -1,6 +1,7 @@
 ﻿trs.chf^fg
 tls.lks
 tfs:lnt:fst
+rks.mls:itlrs
 
 //栈转:7 核心 迁引 磁 浮 推进 通信 传送
 //https://en.wikipedia.org/wiki/Wormhole
