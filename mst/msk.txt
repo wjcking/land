@@ -26,6 +26,6 @@ msk:kmt
 		kmtx
 	mls.k
 	msl.t
-mks:mds_l:mts
+mks:mds:mts
 
 

@@ -13,11 +13,12 @@ fks_c.aks.jts.atr_ch
 ptk.krf_m
  
 /*
-*OFFSET:COMPATIBLE
-*  DIFFERENCE.CONTRAST
+*OFFSET:KOMPATIBLE
+*  DIFFERENCE.KONTRAST
 *  LOST
 *KEYPOINT
 */
-pst.krs^f.knt_e.rtf^d//CONST_EXPR
+pst.knt^e//CHWAI LAIS KANGST_EXPR
+krf:krs^f
+//trf
 kbt
-

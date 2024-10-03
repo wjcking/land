@@ -6,7 +6,7 @@
 flz
   mit:snt //sld^a
   mik.ary
-flk
+//rtf^d
 
 //立 面
 tim

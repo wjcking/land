@@ -13,7 +13,7 @@
 *FAS:FLC
 *FRANSIS:FWLANGXS
 */
-flc:blk
+flc:bkl
   lnf:hnk:mik
   flt:tsk
 	//HNS HRS FWLAIKES:EILAIN
