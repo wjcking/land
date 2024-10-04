@@ -4,12 +4,17 @@ knt.tlk.dls
 //KTLD
 KADERZ:KDR
 KANZD
-	THUMB:8 10^2  //rkb.hand
-	TWO^TOP 
-	TOWKMK TOWKLK
+	 rkb.fenk:hand
+	 pst.knt
+		8
+		10^2 
+			THUMB
+			TWO^TOP 
+			TOWKMK TOWKLK
+		3^5:fenk:4-4:8
 	TWERTV^1QX
 		lsk
-		pst.knt:3^5:THUMB:4-4:8
+	KEAOZ_TD
 	KUV.KaAZD^N
 KZDT^aA^N
 //KDKS KLSK
@@ -29,7 +34,6 @@ kdrz:kdz.rls
 	knk 
 	mkr.vks.mel
 land
-
 
 //LANK\kst\stk
 ksk^c

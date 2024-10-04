@@ -13,7 +13,7 @@ kzr
 	kzlz.isls
 	kzl^sw
 
-	kts^z:ktz^c
+	kts^z:ktz^!c
 krs
 
 //azt.k
