@@ -1,10 +1,10 @@
 ﻿kzt:kb^nr
 
-//kzt.c.lnt
-//tzk^e.s.its.ch
-//tsk^e.cz.lnt.ch
-//tks^e.z.its.th
-//tks^i.zh.gts
+//KZT.C.LNT
+//TZK^E.S.ITS.CH
+//TSK^E.CZ.LNT.CH
+//TKS^E.Z.ITS.TH
+//TKS^I.ZH.GTS
 kzr
 	krkz //krlt
 	
@@ -16,8 +16,8 @@ kzr
 	kts^z:ktz^!c
 krs
 
-//azt.k
-//asnk
-//echs^sh.lxa.itr
+//AZT.K
+//ASNK
+//ECHS^SH.LXA.ITR
 kzt^s^c.trs //l.rst
 kct
