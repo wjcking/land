@@ -17,7 +17,7 @@
 
   kat.krk^de
   mka
-lsk_c:nks:abl_a.smtk:dar_y
+lsk:nks:abl_a.smtk:dar
 
 abt.btn
 krls.lsk.vsk.avl_on//afsk.fks.fkx
@@ -31,7 +31,7 @@ kldr:lsnk_no
 
 rsk_c_awr:lk_ao_wo:rk_eo
 smt
-  slc
+  slk
     mgt.ksh_r.ist^k
     msd.bde
     skr

@@ -2,7 +2,7 @@
 
 knt.tlk.dls
 //KTLD
-KADERZ:KDR
+KDR.KADERZ
 KANZD
 	 rkb.fenk:hand
 	 pst.knt
@@ -17,6 +17,7 @@ KANZD
 	KEAOZ_TD
 	KUV.KaAZD^N
 KZDT^aA^N
+
 //KDKS KLSK
 //NIKLAOI NIK~LAN
 //SLS^ESH SD_A
