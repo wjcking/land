@@ -22,8 +22,8 @@ fks
 /*
 *NO:ENK
 *NOT^AO:ZNK
-*<#HLKT.KZT.FBK> 
 *KAST.TANK
+*<#HLKT.KZT.FBK> 
 */
 klz
 	fks:tlz
