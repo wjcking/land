@@ -36,13 +36,13 @@
 
 //KBT\VZS\SXR\XRT^S
 //艾及特:关节 点 宗教 名望 什体
-克化丝^纶洛//RELIGIOUS RIZEN:REX TAIGES   
+克化丝^纶洛的//RELIGIOUS RIZEN:REX TAIGES   
   //引丝特
 	克来的儿 //KELUOIS.RELIC.GRAYRISK
 	抡丝维儿
-    路卡丝
+    //路卡丝
 		切彻克.六七卡
-    丝特维
+    //丝特维
   克纶韦丝:肋切尔 //RLS ATMOSFLYER:RYSKE,SMLNK
 克立丝
 

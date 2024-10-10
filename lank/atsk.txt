@@ -1,6 +1,6 @@
 ﻿hrs.tri.skr//RGB isk:itls
 
-ats.atn.nts //ANT^i hxs
+atn.nts.ats //ANT^i hxs
 rts.atl^rzs
 ftn //ANT.FXS.FSH
 
